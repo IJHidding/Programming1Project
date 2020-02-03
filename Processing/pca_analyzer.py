@@ -95,11 +95,11 @@ class PcaAnalysis:
         standardizeddf = pd.DataFrame(standardizeddf, columns=self.features)
         bestfeatures = SelectKBest(score_func=f_regression, k=10)
         fit = bestfeatures.fit(standardizeddf, np.ravel(self.data_frame[self.target]))
-        print(fit)
-        scores = fit.scores
+        # print(fit.scores_)
+        scores = fit.scores_
         plt.figure(figsize=(10, 6))
-        plt.bar(range(len(df.columns)), scores)
-        plt.xticks(range(len(df.columns)), df.columns,
+        plt.bar(range(len(self.features)), scores)
+        plt.xticks(range(len(self.features)), self.features,
                    rotation='vertical', fontsize=14)
         plt.title("Results of Regression Tests")
         plt.ylabel("Correlation Scores", fontsize=15)

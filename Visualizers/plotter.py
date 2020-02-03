@@ -25,9 +25,9 @@ class Plotter(AbstractPlotter):
 
         plot.circle(x='principal component 1', y='principal component 2',
                     size=5,
-                    source=source,
+                    source=source, line_color='Black', line_width=1,
                     fill_color=transform('TotaalAlleOnderliggendeDoodsoorzaken_1', mapper), fill_alpha=1.0)
-        color_bar = ColorBar(color_mapper=mapper, location=(0,0),
+        color_bar = ColorBar(color_mapper=mapper, location=(0, 0),
                              ticker=BasicTicker(desired_num_ticks=10),
                              formatter=PrintfTickFormatter(format="%d"))
         plot.add_layout(color_bar, 'right')
