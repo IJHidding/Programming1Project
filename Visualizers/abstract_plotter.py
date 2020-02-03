@@ -8,3 +8,7 @@ class AbstractPlotter(ABC):
 
     @abstractmethod
     def _settings(self, title: str) -> object: pass
+
+    @abstractmethod
+    def get_plot(self):
+        pass

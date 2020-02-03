@@ -1,11 +1,11 @@
 import pandas as pd
-import bokeh
+from bokeh.plotting import show
 import numpy as np
 import sys
 from Parsers.csv_parser import CsvParser
 from Processing.merger import DataframeMerger
 from Processing.pca_analyzer import PcaAnalysis
-# from Visualizers.plotter import Plotter
+from Visualizers.plotter import Plotter
 
 
 def main():
@@ -24,7 +24,9 @@ def main():
 
     Big_Frame = pd.concat([Gron_merged, Flev_merged], ignore_index=True)
 
-    pca = PcaAnalysis(Big_Frame).get_data_frame()
+    pca_dataframe = PcaAnalysis(Big_Frame).get_data_frame()
+    plot = Plotter("PCA", pca_dataframe).get_plot()
+    show(plot)
     # print(parser)
     # csv parser
     # merger
