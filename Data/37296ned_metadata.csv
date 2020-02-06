@@ -1,0 +1,789 @@
+﻿"TableInfos"
+"ID";"Title";"ShortTitle";"Identifier";"Summary";"Modified";"ReasonDelivery";"ExplanatoryText";"Language";"Catalog";"Frequency";"Period";"ShortDescription";"Description";"DefaultPresentation";"DefaultSelection";"GraphTypes";"OutputStatus";"Source";"MetaDataModified";"SearchPriority"
+"0";"Bevolking; kerncijfers";"Bevolking; kerncijfers";"37296ned";"Bevolking naar geslacht, burgerlijke staat, leeftijd of 
+migratieachtergrond, huishoudens en bevolkingsgroei";"2019-12-12T02:00:00";"Herontwerp";"De personen met migratieachtergrond zijn uitgebreid met de groep westers en de uitsplitsingen naar totaal westers, MOE-landen, GIPS-landen en overig. De cijfers zijn beschikbaar vanaf 1995 en gelden voor totaal, eerste- en tweedegeneratie migratieachtergrond.
+";"nl";"CBS";"Perjaar";"1950 - 2019";"
+Deze tabel bevat kerncijfers over de bevolking van Nederland.
+
+In de tabel worden de volgende gegevens onderscheiden:
+- Bevolking naar geslacht;
+- Bevolking naar burgerlijke staat;
+- Bevolking naar leeftijd;
+- Bevolking naar migratieachtergrond;
+- Particuliere huishoudens;
+- Personen in institutionele huishoudens;
+- Bevolkingsgroei;
+- Bevolkingsdichtheid.
+
+Gegevens beschikbaar vanaf: 1950
+
+Status van de cijfers:
+Alle cijfers in de tabel zijn definitief.
+
+Wijzigingen 12 december 2019:
+De personen met migratieachtergrond zijn uitgebreid met de groep westers en de uitsplitsingen naar totaal westers, MOE-landen, GIPS-landen en overig. De cijfers zijn beschikbaar vanaf 1995 en gelden voor totaal, eerste- en tweedegeneratie migratieachtergrond.
+
+Wanneer komen er nieuwe cijfers uit?
+In de tweede helft van 2020 worden de definitieve cijfers van de bevolkingsgroei over 2019 en de definitieve cijfers van de bevolking per 1 januari 2020 toegevoegd. 
+";"INHOUDSOPGAVE
+
+1. Toelichting
+2. Definities en verklaring van symbolen
+3. Koppelingen naar relevante tabellen en artikelen
+4. Bronnen en methoden
+5. Meer informatie
+
+1. TOELICHTING
+
+Deze tabel bevat kerncijfers over de bevolking van Nederland.
+
+In de tabel worden de volgende gegevens onderscheiden:
+- Bevolking naar geslacht;
+- Bevolking naar burgerlijke staat;
+- Bevolking naar leeftijd;
+- Bevolking naar migratieachtergrond;
+- Particuliere huishoudens;
+- Personen in institutionele huishoudens;
+- Bevolkingsgroei;
+- Bevolkingsdichtheid.
+
+Gegevens beschikbaar vanaf: 1950
+
+Status van de cijfers:
+Alle cijfers in de tabel zijn definitief.
+
+Wijzigingen 12 december 2019:
+De personen met migratieachtergrond zijn uitgebreid met de groep westers en de uitsplitsingen naar totaal westers, MOE-landen, GIPS-landen en overig. De cijfers zijn beschikbaar vanaf 1995 en gelden voor totaal, eerste- en tweedegeneratie migratieachtergrond.
+
+Wanneer komen er nieuwe cijfers uit?
+In de tweede helft van 2020 worden de definitieve cijfers van de bevolkingsgroei over 2019 en de definitieve cijfers van de bevolking per 1 januari 2020 toegevoegd. 
+
+2. DEFINITIES EN VERKLARING VAN SYMBOLEN
+
+Wanneer komen er nieuwe cijfers uit?
+In het vierde kwartaal 2020 worden de definitieve cijfers van de bevolkingsontwikkeling over 2019 en de definitieve cijfers van de bevolking per 1 januari 2020 toegevoegd. 
+
+2. DEFINITIES EN VERKLARING VAN SYMBOLEN
+
+Definities:
+
+Bevolking
+De inwoners van Nederland.
+In de bevolkingsaantallen zijn uitsluitend personen begrepen die zijn opgenomen in het bevolkingsregister van een Nederlandse gemeente. In principe wordt iedereen die voor onbepaalde tijd in Nederland woont, opgenomen in het bevolkingsregister van de woongemeente. Personen die tot de bevolking van Nederland behoren, maar voor wie geen vaste woonplaats valt aan te wijzen, zijn opgenomen in het bevolkingsregister van de gemeente 's-Gravenhage. In de bevolkingsregisters zijn niet opgenomen de in Nederland wonende personen waarvoor uitzonderingsregels gelden met betrekking tot opneming in de bevolkingsregisters (bijvoorbeeld diplomaten en NAVO militairen) en personen die niet legaal in Nederland verblijven.
+
+Bevolkingsdichtheid
+Bevolking op 1 januari gedeeld door de oppervlakte land in km2.
+
+Bevolkingsgroei
+De toe- of afname van de bevolking.
+
+Burgerlijke staat
+Formele positie van een persoon waarbij wordt verwezen naar het huwelijk en het geregistreerd partnerschap. 
+
+Geregistreerd partnerschap
+Een op het huwelijk lijkende relatie tussen twee personen van gelijk of van verschillend geslacht, vastgelegd in een akte van de Burgerlijke Stand. Per 1 januari 1998 is in Nederland het geregistreerd partnerschap ingevoerd.
+
+Migratieachtergrond
+Kenmerk dat weergeeft met welk land een persoon verbonden is op basis van het geboorteland van de ouders of van zichzelf.
+Een persoon met een eerste generatie migratieachtergrond heeft als migratieachtergrond het land waar hij of zij is geboren. 
+Een persoon met een tweede generatie migratieachtergrond heeft als migratieachtergrond het geboorteland van de moeder, tenzij dat ook Nederland is. In dat geval is de migratieachtergrond bepaald door het geboorteland van de vader. 
+
+Huwelijk
+Wettelijke verbintenis tot het samenleven van twee personen.
+Sinds april 2001 staat het huwelijk ook open voor personen van hetzelfde geslacht.
+
+Leeftijd
+Het aantal gehele jaren dat op 1 januari van het jaar van waarneming is verstreken sinds de geboortedatum van de persoon.
+Te berekenen als jaar van waarneming minus één, min het geboortejaar van de persoon.
+
+Particulier huishouden
+Eén of meer personen die samen een woonruimte bewonen en zichzelf, dus niet-bedrijfsmatig, voorzien in de dagelijkse levensbehoeften.
+
+Institutioneel huishouden
+Eén of meer personen die samen een woonruimte bewonen en daar bedrijfsmatig worden voorzien in dagelijkse levensbehoeften. Ook de huisvesting vindt bedrijfsmatig plaats. 
+Het gaat om instellingen zoals verpleeg-, verzorgings- en kindertehuizen, gezinsvervangende tehuizen, revalidatiecentra en penitentiaire inrichtingen, waarin de personen in principe voor langere tijd (zullen) verblijven.
+
+Verklaring van symbolen:
+
+niets (blanco) : het cijfer kan op logische gronden niet voorkomen
+. : het cijfer is onbekend, onvoldoende betrouwbaar of geheim
+* : voorlopige cijfers
+** : nader voorlopige cijfers
+
+3. KOPPELINGEN NAAR RELEVANTE TABELLEN EN ARTIKELEN
+
+Relevante tabellen:
+<a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/7461bev'>Bevolking; geslacht, leeftijd en burgerlijke staat, 1 januari</a>
+<a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/37259ned'>Bevolkingsontwikkeling; levend geboren kinderen, overledenen en migratie per regio</a>
+<a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/37325'>Bevolking; generatie, geslacht, leeftijd en migratieachtergrond, 1 januari</a>
+<a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/70751ned'>Bevolkingsontwikkeling; migratieachtergrond en generatie</a> 
+<a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/03742'>Immi- en emigratie naar geboorteland, leeftijd (31 december) en geslacht</a>
+<a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/37979ned'>Overledenen; kerncijfers</a>
+<a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/82905ned'>Huishoudens; grootte, samenstelling, positie in het huishouden, 1 januari 1995-2013</a>
+
+Algemene informatie over de bevolking is te vinden op de themapagina <a href='https://www.cbs.nl/nl-nl/maatschappij/bevolking'>Bevolking</a>.
+
+4. BRONNEN EN METHODEN
+
+
+Trendbreuk (personen in) particuliere huishoudens
+Door de verbeterde waarneming van personen in institutionele huishoudens treedt vanaf 2014 een trendbreuk op in de ontwikkeling van het aantal eenpersoonshuishoudens/alleenstaanden. Circa 35 duizend personen die eerst voornamelijk als alleenstaanden getypeerd waren, verschuiven nu naar de institutionele huishoudens. Het aantal alleenstaanden steeg daardoor van 2013 op 2014 met maar duizend personen. Van 2012 op 2013 was die stijging nog 41 duizend personen. Ook de totale stijging van het aantal huishoudens liep als gevolg hiervan terug van 57 duizend van 2012 op 2013 naar 21 duizend van 2013 op 2014.
+Vanaf 2011 is er voor de samenstelling van huishoudensgegevens gebruik gemaakt van een nieuwe productiemethode. In deze nieuwe methode worden voor het bepalen van de huishoudenssamenstelling naast de gegevens uit het gemeentelijke bevolkingsregister ook belastingdienstgegevens over samenwonende paren gebruikt. De uitkomsten op basis van de nieuwe methode sluiten goed aan op de voorgaande uitkomsten, maar er treden vanaf 2011 wel kleine verschuivingen op in het aantal huishoudens naar samenstelling. De grootste verandering betreft het aantal overige huishoudens en de niet-gehuwde paren. In 2011 valt het aantal overige huishoudens 10 duizend lager uit dan in 2010. Het aantal niet gehuwde paren valt navenant hoger uit.
+
+Trendbreuk (personen in) institutionele huishoudens
+Tot en met 2012 zijn de gegevens over institutionele huishoudens gebaseerd op door gemeenten verstrekte adresinformatie. Vanaf 2014 is de waarneming daarvan volledig gebaseerd op secundaire waarneming. Het jaar 2013 is een tussenjaar. Startpunt was daar de adresinformatie over 2012 aangevuld met secundaire bronnen, waarbij aangetekend dient te worden dat de cijfers over 2013 mogelijk van wat mindere kwaliteit zijn. De belangrijkste bronnen voor de waarneming vanaf 2014 zijn: institutionele adressen op basis van zorgkaartnederland.nl en personen die AWBZ- zorg met verblijf ontvangen (Bron: Centraal Administratie Kantoor, CAK). Zie verder de korte onderzoekbeschrijving. De institutionele huishoudens worden met de nieuwe methodiek die in 2014 is toegepast beter waargenomen. Tevens zijn vanaf 2014 asielzoekers die woonachtig zijn in asielzoekerscentra en ingeschreven staan in het gemeentelijke bevolkingsregister bij de institutionele huishoudens ingedeeld. Als gevolg van deze wijzigingen worden in 2014 249 duizend personen in institutionele huishoudens geteld, naar schatting circa 35 duizend meer dan met de oude methode geteld zouden worden. Vanaf 2011 is er voor de samenstelling van huishoudensgegevens gebruik gemaakt van een nieuwe productiemethode. In deze nieuwe methode worden voor het bepalen van de huishoudenssamenstelling naast de gegevens uit het bevolkingsregister ook belastingdienstgegevens over samenwonende paren gebruikt. Het aantal personen in institutionele huishoudens ligt op 1 januari 2011 bijna 11 duizend hoger dan op 1 januari 2010. Ongeveer de helft van deze stijging is veroorzaakt door verbeteringen in de methode van waarneming.
+
+Trendbreuk bevolking naar burgerlijke staat
+Vanaf 2010 is een kleine verschuiving tussen de verschillende burgerlijke staten zichtbaar (minder ongehuwd en meer gescheiden respectievelijk verweduwd). Dit komt omdat in de periode 1998 tot 2010 niet alle burgerlijke staten beschikbaar zijn in de bronbestanden die het CBS gebruikt. De burgerlijke staten 'verweduwd na partnerschap' en 'gescheiden na partnerschap' worden daardoor binnen deze statistiek binnen deze periode genegeerd. Voor deze statistiek betekent dit dat de burgerlijke staat van vóór het partnerschap is gebruikt wat in de meeste gevallen ongehuwd was. Vanaf 2010 zijn alle burgerlijke staten beschikbaar.
+
+Trendbreuk buitenlandse migratiecijfers
+Door een verbetering in het productieproces vindt er een kleine verschuiving plaats in de cijfers van de buitenlandse migratie.
+Met ingang van 2010 zijn de volgende wijzigingen doorgevoerd:
+- administratieve opnemingen die voorafgegaan worden door emigratie worden nu beschouwd als immigratie;
+- administratieve afvoeringen die gevolgd worden door immigratie worden nu beschouwd als emigratie.
+
+Trendbreuk nagekomen berichten 
+Vanaf verslagjaar 2010 worden méér nagekomen berichten meegeteld. Voor een beschrijving van nagekomen berichten en de gevolgen voor de cijfers in de tabel zie de korte onderzoeksbeschrijving Bevolkingsstatistiek.
+
+De beschrijvingen van de onderzoeken zijn te vinden bij de korte onderzoeksbeschrijvingen <a href='https://www.cbs.nl/nl-nl/onze-diensten/methoden/onderzoeksomschrijvingen/korte-onderzoeksbeschrijvingen/bevolkingsstatistiek'>Bevolkingsstatistiek</a> en de <a href='https://www.cbs.nl/nl-nl/onze-diensten/methoden/onderzoeksomschrijvingen/korte-onderzoeksbeschrijvingen/huishoudensstatistiek'>Huishoudensstatistiek</a>.
+
+De gegevens in de tabel zijn vanaf 2014 (bevolkingsontwikkeling) samengesteld met behulp van het <a href='https://www.cbs.nl/nl-nl/onze-diensten/methoden/onderzoeksomschrijvingen/korte-onderzoeksbeschrijvingen/stelsel-van-sociaal-statistische-bestanden--ssb--'>Stelsel van Sociaal-statistische Bestanden (SSB)</a>.
+
+5. MEER INFORMATIE
+
+<a href='https://www.cbs.nl/nl-nl/over-ons/contact/infoservice'>Infoservice</a>
+
+Copyright (c) Centraal Bureau voor de Statistiek, Den Haag/Heerlen 
+Verveelvoudiging is toegestaan, mits het CBS als bron wordt vermeld.";"ts=1575903611858&graphtype=Table&r=Topics&k=Perioden";"$filter=((Perioden eq '1950JJ00') or (Perioden eq '1960JJ00') or (Perioden eq '1970JJ00') or (Perioden eq '1980JJ00') or (Perioden eq '1990JJ00') or (Perioden eq '2000JJ00') or (Perioden eq '2010JJ00') or (Perioden eq '2015JJ00') or (Perioden eq '2018JJ00') or (Perioden eq '2019JJ00'))&$select=Perioden, TotaleBevolking_1, Mannen_2, Vrouwen_3, TotaleDruk_20, GroeneDruk_21, GrijzeDruk_22, TotaleBevolking_23, Mannen_24, Vrouwen_25, TotaleBevolking_26";"Table,Bar,Line";"Regulier";"CBS.";"2019-12-12T02:00:00";"3"
+"DataProperties"
+ID;Position;ParentID;Type;Key;Title;Description;ReleasePolicy;Datatype;Unit;Decimals;Default
+"0";"0";;"TimeDimension";"Perioden";"Perioden";"";"true";;;;
+"1";;;"TopicGroup";"";"Bevolking naar geslacht";"De bevolking van Nederland op 1 januari.
+
+Bevolking:
+De inwoners van Nederland.
+In de bevolkingsaantallen zijn uitsluitend personen begrepen die zijn opgenomen in het bevolkingsregister van een Nederlandse gemeente. 
+In principe wordt iedereen die voor onbepaalde tijd in Nederland woont, opgenomen in het bevolkingsregister van de woongemeente. Personen die tot de bevolking van Nederland behoren, maar voor wie geen vaste woonplaats valt aan te wijzen, zijn opgenomen in het bevolkingsregister van de gemeente 's-Gravenhage.
+In de bevolkingsregisters zijn niet opgenomen de in Nederland wonende personen waarvoor uitzonderingsregels gelden met betrekking tot opneming in de bevolkingsregisters (bijvoorbeeld diplomaten en NAVO militairen) en personen die niet legaal in Nederland verblijven.";;;;;
+"2";"1";"1";"Topic";"TotaleBevolking_1";"Totale bevolking";;;"Long";"aantal";"0";"Impossible"
+"3";"2";"1";"Topic";"Mannen_2";"Mannen";;;"Long";"aantal";"0";"Impossible"
+"4";"3";"1";"Topic";"Vrouwen_3";"Vrouwen";;;"Long";"aantal";"0";"Impossible"
+"5";;;"TopicGroup";"";"Bevolking naar burgerlijke staat";"De bevolking van Nederland op 1 januari.
+
+Trendbreuk burgerlijke staat
+Vanaf 2010 is een kleine verschuiving tussen de verschillende burgerlijke staten opgetreden (minder ongehuwd en meer gescheiden en verweduwd). Dit komt omdat in de periode 1998 tot 2010 niet alle burgerlijke staten beschikbaar zijn in de bronbestanden die het CBS gebruikt. De burgerlijke staten 'verweduwd na partnerschap' en 'gescheiden na partnerschap' worden daardoor binnen deze statistiek binnen deze periode genegeerd. Voor deze statistiek betekent dit dat de burgerlijke staat van vóór het partnerschap is gebruikt wat in de meeste gevallen ongehuwd was. Vanaf 2010 zijn alle burgerlijke staten beschikbaar.
+
+Bevolking:
+De inwoners van Nederland.
+In de bevolkingsaantallen zijn uitsluitend personen begrepen die zijn opgenomen in het bevolkingsregister van een Nederlandse gemeente. 
+In principe wordt iedereen die voor onbepaalde tijd in Nederland woont, opgenomen in het bevolkingsregister van de woongemeente. Personen die tot de bevolking van Nederland behoren, maar voor wie geen vaste woonplaats valt aan te wijzen, zijn opgenomen in het bevolkingsregister van de gemeente 's-Gravenhage.
+In de bevolkingsregisters zijn niet opgenomen de in Nederland wonende personen waarvoor uitzonderingsregels gelden met betrekking tot opneming in de bevolkingsregisters (bijvoorbeeld diplomaten en NAVO militairen) en personen die niet legaal in Nederland verblijven.
+
+Burgerlijke staat:
+Formele positie van een persoon waarbij wordt verwezen naar het huwelijk en het geregistreerd partnerschap.
+
+Geregistreerd partnerschap:
+Een op het huwelijk lijkende relatie tussen twee personen van gelijk of van verschillend geslacht, vastgelegd in een akte van de Burgerlijke Stand. Per 1 januari 1998 is in Nederland het geregistreerd partnerschap ingevoerd.
+
+Huwelijk:
+Wettelijke verbintenis tot het samenleven van twee personen.
+Sinds april 2001 staat het huwelijk ook open voor personen van hetzelfde geslacht.";;;;;
+"6";"4";"5";"Topic";"TotaleBevolking_4";"Totale bevolking";;;"Long";"aantal";"0";"Impossible"
+"7";"5";"5";"Topic";"Ongehuwd_5";"Ongehuwd";"Vanaf 2010: burgerlijke staat die aangeeft dat een persoon nog nooit een huwelijk heeft gesloten of een geregistreerd partnerschap is aangegaan.
+1998 tot 2010: burgerlijke staat die aangeeft dat een persoon nog nooit een huwelijk heeft gesloten of een geregistreerd partnerschap heeft.
+Omdat in de periode 1998 tot 2010 niet alle burgerlijke staten beschikbaar zijn in de bronbestanden die het CBS gebruikt, zijn de burgerlijke staten
+'verweduwd na partnerschap' en 'gescheiden na partnerschap' in deze statistiek binnen deze periode genegeerd. Voor deze statistiek betekent
+dit dat de burgerlijke staat van vóór het partnerschap is gebruikt. Dat was meestal ongehuwd.
+Tot 1998: burgerlijke staat die aangeeft dat een persoon nog nooit een huwelijk heeft gesloten.
+
+Huwelijk: 
+Wettelijke verbintenis tot het samenleven van twee personen. Sinds april 2001 staat het huwelijk ook open voor personen van hetzelfde geslacht.
+
+Geregistreerd partnerschap: 
+Een op het huwelijk lijkende relatie tussen twee personen van gelijk of van verschillend geslacht, vastgelegd in een akte van de Burgerlijke Stand. Per 1 januari 1998 is in Nederland het geregistreerd partnerschap ingevoerd.";;"Long";"aantal";"0";"Impossible"
+"8";"6";"5";"Topic";"Gehuwd_6";"Gehuwd";"Vanaf 1998: wettig gehuwd plus partnerschap.
+Tot 1998: wettig gehuwd.
+
+Wettig gehuwd: 
+Burgerlijke staat die ontstaat na sluiting van een huwelijk. Inclusief personen die zijn gescheiden van tafel en bed, want zij blijven formeel gehuwd. 
+
+Partnerschap: 
+Burgerlijke staat die ontstaat na het aangaan van een geregistreerd partnerschap.
+
+Huwelijk: 
+Wettelijke verbintenis tot het samenleven van twee personen. Sinds april 2001 staat het huwelijk ook open voor personen van hetzelfde geslacht.
+
+Geregistreerd partnerschap: 
+Een op het huwelijk lijkende relatie tussen twee personen van gelijk of van verschillend geslacht, vastgelegd in een akte van de Burgerlijke Stand. Per 1 januari 1998 is in Nederland het geregistreerd partnerschap ingevoerd.";;"Long";"aantal";"0";"Impossible"
+"9";"7";"5";"Topic";"Verweduwd_7";"Verweduwd";"Verweduwd na wettig huwelijk plus verweduwd na partnerschap
+
+Vanaf 2010: verweduwd na wettig huwelijk plus verweduwd na partnerschap.
+Tot 2010: verweduwd na wettig huwelijk.
+Omdat in de periode 1998 tot 2010 niet alle burgerlijke staten beschikbaar zijn in de bronbestanden die het CBS gebruikt, is 'verweduwd na partnerschap' in deze statistiek binnen deze periode niet meegeteld.
+
+Verweduwd na wettig huwelijk: 
+Burgerlijke staat die ontstaat na ontbinding van een wettig huwelijk door overlijden van de partner. 
+
+Verweduwd na partnerschap: 
+Burgerlijke staat die ontstaat na ontbinding van een geregistreerd partnerschap door overlijden van de partner. 
+
+Huwelijk: 
+Wettelijke verbintenis tot het samenleven van twee personen. Sinds april 2001 staat het huwelijk ook open voor personen van hetzelfde geslacht.
+
+Geregistreerd partnerschap: 
+Een op het huwelijk lijkende relatie tussen twee personen van gelijk of van verschillend geslacht, vastgelegd in een akte van de Burgerlijke Stand. Per 1 januari 1998 is in Nederland het geregistreerd partnerschap ingevoerd.";;"Long";"aantal";"0";"Impossible"
+"10";"8";"5";"Topic";"Gescheiden_8";"Gescheiden";"Gescheiden na wettig huwelijk plus gescheiden na partnerschap.
+
+Vanaf 2010: gescheiden na wettig huwelijk plus gescheiden na partnerschap.
+Tot 2010: gescheiden na wettig huwelijk.
+Omdat in de periode 1998 tot 2010 niet alle burgerlijke staten beschikbaar zijn in de bronbestanden die het CBS gebruikt, is 'gescheiden na partnerschap' in deze statistiek binnen deze periode niet meegeteld.
+
+Gescheiden na wettig huwelijk: 
+Burgerlijke staat die ontstaat na ontbinding van een wettig huwelijk door echtscheiding. Exclusief personen die zijn gescheiden van tafel en bed, want zij blijven formeel gehuwd. 
+
+Gescheiden na partnerschap:
+Burgerlijke staat die ontstaat na ontbinding van een geregistreerd partnerschap anders dan door het overlijden van de partner.
+
+Huwelijk: 
+Wettelijke verbintenis tot het samenleven van twee personen. Sinds april 2001 staat het huwelijk ook open voor personen van hetzelfde geslacht.
+
+Geregistreerd partnerschap: 
+Een op het huwelijk lijkende relatie tussen twee personen van gelijk of van verschillend geslacht, vastgelegd in een akte van de Burgerlijke Stand. Per 1 januari 1998 is in Nederland het geregistreerd partnerschap ingevoerd.";;"Long";"aantal";"0";"Impossible"
+"11";;;"TopicGroup";"";"Bevolking naar leeftijd (op 1 januari)";"De bevolking van Nederland op 1 januari.
+
+Bevolking:
+De inwoners van Nederland.
+In de bevolkingsaantallen zijn uitsluitend personen begrepen die zijn opgenomen in het bevolkingsregister van een Nederlandse gemeente. 
+In principe wordt iedereen die voor onbepaalde tijd in Nederland woont, opgenomen in het bevolkingsregister van de woongemeente. Personen die tot de bevolking van Nederland behoren, maar voor wie geen vaste woonplaats valt aan te wijzen, zijn opgenomen in het bevolkingsregister van de gemeente 's-Gravenhage.
+In de bevolkingsregisters zijn niet opgenomen de in Nederland wonende personen waarvoor uitzonderingsregels gelden met betrekking tot opneming in de bevolkingsregisters (bijvoorbeeld diplomaten en NAVO militairen) en personen die niet legaal in Nederland verblijven.
+
+Leeftijd:
+Het aantal gehele jaren dat op 1 januari van het jaar van waarneming is verstreken sinds de geboortedatum van de persoon.
+Te berekenen als jaar van waarneming minus één, min het geboortejaar van de persoon.";;;;;
+"12";;"11";"TopicGroup";"";"Bevolking naar leeftijd, aantallen";"Bevolking naar leeftijd in aantallen.";;;;;
+"13";"9";"12";"Topic";"TotaleBevolking_9";"Totale bevolking";;;"Double";"aantal";"0";"Impossible"
+"14";"10";"12";"Topic";"JongerDan20Jaar_10";"Jonger dan 20 jaar";"Personen jonger dan 20 jaar.";;"Long";"aantal";"0";"Impossible"
+"15";"11";"12";"Topic";"k_20Tot40Jaar_11";"20 tot 40 jaar";"Personen van 20 tot 40 jaar.";;"Long";"aantal";"0";"Impossible"
+"16";"12";"12";"Topic";"k_40Tot65Jaar_12";"40 tot 65 jaar";"Personen van 40 tot 65 jaar.";;"Long";"aantal";"0";"Impossible"
+"17";"13";"12";"Topic";"k_65Tot80Jaar_13";"65 tot 80 jaar";"Personen van 65 tot 80 jaar.";;"Long";"aantal";"0";"Impossible"
+"18";"14";"12";"Topic";"k_80JaarOfOuder_14";"80 jaar of ouder";"Personen van 80 jaar of ouder.";;"Long";"aantal";"0";"Impossible"
+"19";;"11";"TopicGroup";"";"Bevolking naar leeftijd, relatief";"Bevolking naar leeftijd per honderd van de totale bevolking.";;;;;
+"20";"15";"19";"Topic";"JongerDan20Jaar_15";"Jonger dan 20 jaar";"Personen jonger dan 20 jaar per honderd van de totale bevolking.";;"Double";"%";"1";"Impossible"
+"21";"16";"19";"Topic";"k_20Tot40Jaar_16";"20 tot 40 jaar";"Personen van 20 tot 40 jaar per honderd van de totale bevolking.";;"Double";"%";"1";"Impossible"
+"22";"17";"19";"Topic";"k_40Tot65Jaar_17";"40 tot 65 jaar";"Personen van 40 tot 65 jaar per honderd van de totale bevolking.";;"Double";"%";"1";"Impossible"
+"23";"18";"19";"Topic";"k_65Tot80Jaar_18";"65 tot 80 jaar";"Personen van 65 tot 80 jaar per honderd van de totale bevolking.";;"Double";"%";"1";"Impossible"
+"24";"19";"19";"Topic";"k_80JaarOfOuder_19";"80 jaar of ouder";"Personen van 80 jaar of ouder per honderd van de totale bevolking.";;"Double";"%";"1";"Impossible"
+"25";;"11";"TopicGroup";"";"Demografische druk";"De som van het aantal personen van 0 tot 20 jaar en 65 jaar of ouder in verhouding tot de personen van 20 tot 65 jaar. 
+Dit cijfer geeft inzicht in de verhouding van het niet-werkende deel van de bevolking tot het werkende deel van de bevolking.";;;;;
+"26";"20";"25";"Topic";"TotaleDruk_20";"Totale druk";"Het aantal personen van 0 tot 20 jaar én 65 jaar of ouder per honderd personen van 20 tot 65 jaar.";;"Double";"%";"1";"Impossible"
+"27";"21";"25";"Topic";"GroeneDruk_21";"Groene druk";"De verhouding tussen het aantal personen van 0 tot 20 jaar en het aantal personen van 20 tot 65 jaar. 
+Dit cijfer geeft inzicht in de verhouding van de jeugd tot het werkende deel van de bevolking.";;"Double";"%";"1";"Impossible"
+"28";"22";"25";"Topic";"GrijzeDruk_22";"Grijze druk";"De verhouding tussen het aantal personen van 65 jaar of ouder en het aantal personen van 20 tot 65 jaar.  
+Dit cijfer geeft inzicht in de verhouding van de ouderen tot het werkende deel van de bevolking.";;"Double";"%";"1";"Impossible"
+"29";;"11";"TopicGroup";"";"Gemiddelde leeftijd";"Het rekenkundig gemiddelde van alle leeftijden van personen die behoren tot de bevolking van Nederland.";;;;;
+"30";"23";"29";"Topic";"TotaleBevolking_23";"Totale bevolking";"Gemiddelde leeftijd van de totale bevolking van Nederland.";;"Double";"Jaar";"1";"Impossible"
+"31";"24";"29";"Topic";"Mannen_24";"Mannen";"Gemiddelde leeftijd van de mannelijke bevolking van Nederland.";;"Double";"Jaar";"1";"Impossible"
+"32";"25";"29";"Topic";"Vrouwen_25";"Vrouwen";"Gemiddelde leeftijd van de vrouwelijke bevolking van Nederland.";;"Double";"Jaar";"1";"Impossible"
+"33";;;"TopicGroup";"";"Bevolking naar migratieachtergrond";"De bevolking van Nederland op 1 januari.
+
+Bevolking:
+De inwoners van Nederland.
+In de bevolkingsaantallen zijn uitsluitend personen begrepen die zijn opgenomen in het bevolkingsregister van een Nederlandse gemeente. 
+In principe wordt iedereen die voor onbepaalde tijd in Nederland woont, opgenomen in het bevolkingsregister van de woongemeente. Personen die tot de bevolking van Nederland behoren, maar voor wie geen vaste woonplaats valt aan te wijzen, zijn opgenomen in het bevolkingsregister van de gemeente 's-Gravenhage.
+In de bevolkingsregisters zijn niet opgenomen de in Nederland wonende personen waarvoor uitzonderingsregels gelden met betrekking tot opneming in de bevolkingsregisters (bijvoorbeeld diplomaten en NAVO militairen) en personen die niet legaal in Nederland verblijven.
+
+Migratieachtergrond:
+Kenmerk dat weergeeft met welk land een persoon verbonden is op basis van het geboorteland van de ouders of van zichzelf.
+Een persoon met een eerste generatie migratieachtergrond heeft als migratieachtergrond het land waar hij of zij is geboren. 
+Een persoon met een tweede generatie migratieachtergrond heeft als migratieachtergrond het geboorteland van de moeder, tenzij dat ook Nederland is. In dat geval is de migratieachtergrond bepaald door het geboorteland van de vader. ";;;;;
+"34";"26";"33";"Topic";"TotaleBevolking_26";"Totale bevolking";;;"Long";"aantal";"0";"Impossible"
+"35";"27";"33";"Topic";"PersoonMetEenNederlandseAchtergrond_27";"Persoon met een Nederlandse achtergrond";"Gegevens beschikbaar vanaf 1995. 
+
+Persoon van wie de beide ouders in Nederland zijn geboren, ongeacht het land waar men zelf is geboren.
+
+";;"Long";"aantal";"0";"Impossible"
+"36";;"33";"TopicGroup";"";"1e en 2e generatie migratieachtergrond";"Gegevens beschikbaar vanaf 1995. 
+
+Persoon met een eerste en tweede migratieachtergrond
+Totaal aantal personen met een eerste en tweede generatie migratieachtergrond
+
+Persoon met een eerste generatie migratieachtergrond:
+Persoon die in het buitenland is geboren met ten minste één in het buitenland geboren ouder.
+
+Persoon met een tweede generatie migratieachtergrond::
+Persoon die in Nederland is geboren en van wie ten minste één ouder in het buitenland is geboren.
+";;;;;
+"37";;"36";"TopicGroup";"";"Totaal met migratieachtergrond";;;;;;
+"38";"28";"37";"Topic";"PersoonMetEenMigratieachtergrond_28";"Persoon met een migratieachtergrond";;;"Long";"aantal";"0";"Impossible"
+"39";"29";"37";"Topic";"MigratieachtergrondRelatief_29";"Migratieachtergrond, relatief";"Totaal aantal personen met een migratieachtergrond per honderd van de totale bevolking.";;"Double";"%";"1";"Impossible"
+"40";;"37";"TopicGroup";"";"Westerse migratieachtergrond";"Persoon met als migratieachtergrond een van de landen in Europa (exclusief Turkije), Noord-Amerika en Oceanië, en Indonesië en Japan. 
+Op grond van hun sociaal- economische en sociaal-culturele positie worden personen met een migratieachtergrond uit Indonesië en Japan tot de westerse migratieachtergrond gerekend. Het gaat vooral om mensen die in het voormalig Nederlands-Indië zijn geboren en werknemers van Japanse bedrijven met hun gezin.
+
+Migratieachtergrond:
+Kenmerk dat weergeeft met welk land een persoon verbonden is op basis van het geboorteland van de ouders of van zichzelf.
+Een persoon met een eerste generatie migratieachtergrond heeft als migratieachtergrond het land waar hij of zij is geboren. 
+Een persoon met een tweede generatie migratieachtergrond heeft als migratieachtergrond het geboorteland van de moeder, tenzij dat ook Nederland is. In dat geval is de migratieachtergrond bepaald door het geboorteland van de vader. 
+Bij personen met een tweede generatie migratieachtergrond is er ook een onderscheid tussen personen met één of twee in het buitenland geboren ouders.";;;;;
+"41";"30";"40";"Topic";"TotaalWesterseMigratieachtergrond_30";"Totaal westerse migratieachtergrond";;;"Long";;"0";"Impossible"
+"42";"31";"40";"Topic";"MiddenEnOostEuropeseLandenInDeEU_31";"Midden- en Oost-Europese landen in de EU";"Landen in Midden- en Oost-Europa die zijn toegetreden tot de Europese Unie.
+Toegetreden per 1 mei 2004: Estland, Hongarije, Letland, Litouwen, Polen, Slovenië, Slowakije en Tsjechië.
+Toegetreden per 1 januari 2007: Bulgarije en Roemenië.
+Toegetreden per 1 juli 2013: Kroatië.
+
+Europese Unie:
+Samenwerkingsverband van Europese staten, onder deze naam opgericht in 1993 door het Verdrag van Maastricht, maar met voorlopers in de jaren '50 van de vorige eeuw, gericht op het bereiken van gemeenschappelijke doelen op het politieke, economische en juridische vlak. Een belangrijk doel is het vrije verkeer van personen, goederen, diensten en kapitaal binnen het samenwerkingsverband. Op veel terreinen hebben de lidstaten bevoegdheden overgedragen aan het samenwerkingsverband, daarnaast zijn er terreinen waarbij het zelfbeschikkingsrecht van de lidstaten is gehandhaafd en besluiten alleen bij eenstemmigheid kunnen worden genomen.";;"Long";"";"0";"Impossible"
+"43";"32";"40";"Topic";"GIPSLandenInDeEU_32";"GIPS landen in de EU";"Landen rond de Middellandse zee die zijn toegetreden tot de Europese Unie.
+Toegetreden per 1 januari 1958: Italië.
+Toegetreden per 1 januari 1981: Griekenland.
+Toegetreden per 1 januari 1986: Portugal en Spanje.
+
+Europese Unie:
+Samenwerkingsverband van Europese staten, onder deze naam opgericht in 1993 door het Verdrag van Maastricht, maar met voorlopers in de jaren '50 van de vorige eeuw, gericht op het bereiken van gemeenschappelijke doelen op het politieke, economische en juridische vlak. Een belangrijk doel is het vrije verkeer van personen, goederen, diensten en kapitaal binnen het samenwerkingsverband. Op veel terreinen hebben de lidstaten bevoegdheden overgedragen aan het samenwerkingsverband, daarnaast zijn er terreinen waarbij het zelfbeschikkingsrecht van de lidstaten is gehandhaafd en besluiten alleen bij eenstemmigheid kunnen worden genomen.";;"Long";"";"0";"Impossible"
+"44";"33";"40";"Topic";"OverigWesterseMigratieachtergrond_33";"Overig westerse migratieachtergrond";"Totaal westers minus Midden- en Oost Europese landen in de EU en GIPS landen in de EU.
+
+Midden- en Oost Europese landen in de EU:
+Landen in Midden- en Oost-Europa die zijn toegetreden tot de Europese Unie.
+Toegetreden per 1 mei 2004: Estland, Hongarije, Letland, Litouwen, Polen, Slovenië, Slowakije en Tsjechië.
+Toegetreden per 1 januari 2007: Bulgarije en Roemenië.
+Toegetreden per 1 juli 2013: Kroatië.
+
+Europese Unie:
+Samenwerkingsverband van Europese staten, onder deze naam opgericht in 1993 door het Verdrag van Maastricht, maar met voorlopers in de jaren '50 van de vorige eeuw, gericht op het bereiken van gemeenschappelijke doelen op het politieke, economische en juridische vlak. Een belangrijk doel is het vrije verkeer van personen, goederen, diensten en kapitaal binnen het samenwerkingsverband. Op veel terreinen hebben de lidstaten bevoegdheden overgedragen aan het samenwerkingsverband, daarnaast zijn er terreinen waarbij het zelfbeschikkingsrecht van de lidstaten is gehandhaafd en besluiten alleen bij eenstemmigheid kunnen worden genomen.
+
+GIPS landen in de EU:
+Landen rond de Middellandse zee die zijn toegetreden tot de Europese Unie.
+Toegetreden per 1 januari 1958: Italië.
+Toegetreden per 1 januari 1981: Griekenland.
+Toegetreden per 1 januari 1986: Portugal en Spanje.
+
+Europese Unie:
+Samenwerkingsverband van Europese staten, onder deze naam opgericht in 1993 door het Verdrag van Maastricht, maar met voorlopers in de jaren '50 van de vorige eeuw, gericht op het bereiken van gemeenschappelijke doelen op het politieke, economische en juridische vlak. Een belangrijk doel is het vrije verkeer van personen, goederen, diensten en kapitaal binnen het samenwerkingsverband. Op veel terreinen hebben de lidstaten bevoegdheden overgedragen aan het samenwerkingsverband, daarnaast zijn er terreinen waarbij het zelfbeschikkingsrecht van de lidstaten is gehandhaafd en besluiten alleen bij eenstemmigheid kunnen worden genomen.
+";;"Long";"";"0";"Impossible"
+"45";;"37";"TopicGroup";"";"Niet-westerse migratieachtergrond";"Persoon met met als migratieachtergrond een van de landen in Afrika, Latijns-Amerika en Azië (exclusief Indonesië en Japan) of Turkije.  
+Op grond van hun sociaal-economische en sociaal-culturele positie worden personen met een migratieachtergrond uit Indonesië en Japan tot de westerse migratieachtergrond gerekend. Het gaat vooral om mensen die in het voormalig Nederlands-Indië zijn geboren en werknemers van Japanse bedrijven met hun gezin.
+
+Persoon met een migratieachtergrond:
+Persoon van wie ten minste één ouder in het buitenland is geboren.
+
+Migratieachtergrond:
+Kenmerk dat weergeeft met welk land een persoon verbonden is op basis van het geboorteland van de ouders of van zichzelf.
+
+
+Een persoon met een eerste generatie migratieachtergrond heeft als migratieachtergrond het land waar hij of zij is geboren. 
+
+
+Een persoon met een tweede generatie migratieachtergrond heeft als migratieachtergrond het geboorteland van de moeder, tenzij dat ook Nederland is. In dat geval is de migratieachtergrond bepaald door het geboorteland van de vader. 
+
+
+Bij personen met een tweede generatie migratieachtergrond is er ook een onderscheid tussen personen met één of twee in het buitenland geboren ouders.
+
+Persoon met een eerste generatie migratieachtergrond:
+Persoon die in het buitenland is geboren met ten minste één in het buitenland geboren ouder.
+
+Persoon met een tweede generatie migratieachtergrond:
+Persoon die in Nederland is geboren met ten minste één in het buitenland geboren ouder.";;;;;
+"46";"34";"45";"Topic";"TotaalNietWesters_34";"Totaal niet-westers";;;"Long";"aantal";"0";"Impossible"
+"47";"35";"45";"Topic";"Marokko_35";"Marokko";"Marokko, Ifni, Spaanse Sahara, Westelijke Sahara.";;"Long";"aantal";"0";"Impossible"
+"48";"36";"45";"Topic";"VoormaligNedAntillenAruba_36";"(voormalig) Ned. Antillen + Aruba";"Betreft een samentelling van de eilanden die tot het grondgebied van de Nederlandse Antillen en Aruba van vóór 10 oktober 2010 behoorden.
+Het gaat om de eilanden Bonaire, Curaçao, Saba, Sint-Eustatius, Sint-Maarten en Aruba.
+
+Vanaf 10 oktober 2010 zijn de Nederlandse Antillen ontbonden. Het Koninkrijk der Nederlanden bestaat dan uit vier landen: Nederland, Aruba, Curaçao en Sint Maarten. Alle eilanden hebben een nieuwe status. Curaçao en Sint Maarten zijn nieuwe landen binnen het Koninkrijk. Met een 'Status aparte' binnen het Koninkrijk zijn Curaçao en Sint Maarten autonome landen. De landen hebben een zelfstandig bestuur en zijn niet meer afhankelijk van Nederland. De openbare lichamen Bonaire, Sint Eustatius en Saba, ook wel Caribisch Nederland, hebben een diepere band met Nederland en functioneren als bijzondere gemeente van Nederland.
+
+Op 1 januari 1986 werd Aruba afgescheiden van de Nederlandse Antillen. Sinds die datum is Aruba een nieuw land binnen het Koninkrijk de Nederlanden. Met een 'Status aparte' binnen het Koninkrijk is Aruba een autonoom land. Aruba heeft een zelfstandig bestuur en is niet meer afhankelijk van Nederland.";;"Long";"aantal";"0";"Impossible"
+"49";"37";"45";"Topic";"Suriname_37";"Suriname";;;"Long";"aantal";"0";"Impossible"
+"50";"38";"45";"Topic";"Turkije_38";"Turkije";;;"Long";"aantal";"0";"Impossible"
+"51";"39";"45";"Topic";"OverigNietWesters_39";"Overig niet-westers";"Totaal niet-westers minus Marokko, (voormalige) Nederlandse Antillen en Aruba, Suriname en Turkije.";;"Double";"aantal";"0";"Impossible"
+"52";;"36";"TopicGroup";"";"1e generatie migratieachtergrond";"Persoon die in het buitenland is geboren met ten minste één in het buitenland geboren ouder.";;;;;
+"53";"40";"52";"Topic";"Totaal1eGeneratieMigratieachtergrond_40";"Totaal 1e generatie migratieachtergrond";;;"Long";"aantal";"0";"Impossible"
+"54";;"52";"TopicGroup";"";"Westers";"Persoon met als migratieachtergrond een van de landen in Europa (exclusief Turkije), Noord-Amerika en Oceanië, en Indonesië en Japan. 
+Op grond van hun sociaal- economische en sociaal-culturele positie worden personen met een migratieachtergrond uit Indonesië en Japan tot de westerse migratieachtergrond gerekend. Het gaat vooral om mensen die in het voormalig Nederlands-Indië zijn geboren en werknemers van Japanse bedrijven met hun gezin.
+
+Persoon met een migratieachtergrond:
+Persoon van wie ten minste één ouder in het buitenland is geboren.
+
+Migratieachtergrond:
+Kenmerk dat weergeeft met welk land een persoon verbonden is op basis van het geboorteland van de ouders of van zichzelf.
+
+
+Een persoon met een eerste generatie migratieachtergrond heeft als migratieachtergrond het land waar hij of zij is geboren. 
+
+
+Een persoon met een tweede generatie migratieachtergrond heeft als migratieachtergrond het geboorteland van de moeder, tenzij dat ook Nederland is. In dat geval is de migratieachtergrond bepaald door het geboorteland van de vader. 
+
+
+Bij personen met een tweede generatie migratieachtergrond is er ook een onderscheid tussen personen met één of twee in het buitenland geboren ouders.
+
+Persoon met een eerste generatie migratieachtergrond:
+Persoon die in het buitenland is geboren met ten minste één in het buitenland geboren ouder.
+
+Persoon met een tweede generatie migratieachtergrond:
+Persoon die in Nederland is geboren en van wie ten minste één ouder in het buitenland is geboren.";;;;;
+"55";"41";"54";"Topic";"TotaalWesters_41";"Totaal westers";;;"Long";;"0";"Impossible"
+"56";"42";"54";"Topic";"MiddenEnOostEuropeseLandenInDeEU_42";"Midden- en Oost-Europese landen in de EU";"Landen in Midden- en Oost-Europa die zijn toegetreden tot de Europese Unie.
+Toegetreden per 1 mei 2004: Estland, Hongarije, Letland, Litouwen, Polen, Slovenië, Slowakije en Tsjechië.
+Toegetreden per 1 januari 2007: Bulgarije en Roemenië.
+Toegetreden per 1 juli 2013: Kroatië.
+
+Europese Unie:
+Samenwerkingsverband van Europese staten, onder deze naam opgericht in 1993 door het Verdrag van Maastricht, maar met voorlopers in de jaren '50 van de vorige eeuw, gericht op het bereiken van gemeenschappelijke doelen op het politieke, economische en juridische vlak. Een belangrijk doel is het vrije verkeer van personen, goederen, diensten en kapitaal binnen het samenwerkingsverband. Op veel terreinen hebben de lidstaten bevoegdheden overgedragen aan het samenwerkingsverband, daarnaast zijn er terreinen waarbij het zelfbeschikkingsrecht van de lidstaten is gehandhaafd en besluiten alleen bij eenstemmigheid kunnen worden genomen.";;"Long";;"0";"Impossible"
+"57";"43";"54";"Topic";"GIPSLandenInDeEU_43";"GIPS landen in de EU";"Landen rond de Middellandse zee die zijn toegetreden tot de Europese Unie.
+Toegetreden per 1 januari 1958: Italië.
+Toegetreden per 1 januari 1981: Griekenland.
+Toegetreden per 1 januari 1986: Portugal en Spanje.
+
+Europese Unie:
+Samenwerkingsverband van Europese staten, onder deze naam opgericht in 1993 door het Verdrag van Maastricht, maar met voorlopers in de jaren '50 van de vorige eeuw, gericht op het bereiken van gemeenschappelijke doelen op het politieke, economische en juridische vlak. Een belangrijk doel is het vrije verkeer van personen, goederen, diensten en kapitaal binnen het samenwerkingsverband. Op veel terreinen hebben de lidstaten bevoegdheden overgedragen aan het samenwerkingsverband, daarnaast zijn er terreinen waarbij het zelfbeschikkingsrecht van de lidstaten is gehandhaafd en besluiten alleen bij eenstemmigheid kunnen worden genomen.";;"Long";;"0";"Impossible"
+"58";"44";"54";"Topic";"OverigWesters_44";"Overig westers";"Totaal westers minus Midden- en Oost Europese landen in de EU en GIPS landen in de EU.
+
+Midden- en Oost Europese landen in de EU:
+Landen in Midden- en Oost-Europa die zijn toegetreden tot de Europese Unie.
+Toegetreden per 1 mei 2004: Estland, Hongarije, Letland, Litouwen, Polen, Slovenië, Slowakije en Tsjechië.
+Toegetreden per 1 januari 2007: Bulgarije en Roemenië.
+Toegetreden per 1 juli 2013: Kroatië.
+
+Europese Unie:
+Samenwerkingsverband van Europese staten, onder deze naam opgericht in 1993 door het Verdrag van Maastricht, maar met voorlopers in de jaren '50 van de vorige eeuw, gericht op het bereiken van gemeenschappelijke doelen op het politieke, economische en juridische vlak. Een belangrijk doel is het vrije verkeer van personen, goederen, diensten en kapitaal binnen het samenwerkingsverband. Op veel terreinen hebben de lidstaten bevoegdheden overgedragen aan het samenwerkingsverband, daarnaast zijn er terreinen waarbij het zelfbeschikkingsrecht van de lidstaten is gehandhaafd en besluiten alleen bij eenstemmigheid kunnen worden genomen.
+
+GIPS landen in de EU:
+Landen rond de Middellandse zee die zijn toegetreden tot de Europese Unie.
+Toegetreden per 1 januari 1958: Italië.
+Toegetreden per 1 januari 1981: Griekenland.
+Toegetreden per 1 januari 1986: Portugal en Spanje.";;"Long";;"0";"Impossible"
+"59";;"52";"TopicGroup";"";"Niet-westers";"Persoon met als migratieachtergrond een van de landen in Afrika, Latijns-Amerika en Azië (exclusief Indonesië en Japan) of Turkije. 
+Op grond van hun sociaal-economische en sociaal-culturele positie worden personen met een migratieachtergrond uit Indonesië en Japan tot de westerse migratieachtergrond gerekend. Het gaat vooral om mensen die in het voormalig Nederlands-Indië zijn geboren en werknemers van Japanse bedrijven met hun gezin.
+
+Persoon met een migratieachtergrond:
+Persoon van wie ten minste één ouder in het buitenland is geboren.
+
+Migratieachtergrond:
+Kenmerk dat weergeeft met welk land een persoon verbonden is op basis van het geboorteland van de ouders of van zichzelf.
+
+
+Een persoon met een eerste generatie migratieachtergrond heeft als migratieachtergrond het land waar hij of zij is geboren. 
+
+
+Een persoon met een tweede generatie migratieachtergrond heeft als migratieachtergrond het geboorteland van de moeder, tenzij dat ook Nederland is. In dat geval is de migratieachtergrond bepaald door het geboorteland van de vader. 
+
+
+Bij personen met een tweede generatie migratieachtergrond is er ook een onderscheid tussen personen met één of twee in het buitenland geboren ouders.
+
+Persoon met een eerste generatie migratieachtergrond:
+Persoon die in het buitenland is geboren met ten minste één in het buitenland geboren ouder.
+
+Persoon met een tweede generatie migratieachtergrond:
+Persoon die in Nederland is geboren met ten minste één in het buitenland geboren ouder.";;;;;
+"60";"45";"59";"Topic";"TotaalNietWesters_45";"Totaal niet-westers";;;"Long";"aantal";"0";"Impossible"
+"61";"46";"59";"Topic";"Marokko_46";"Marokko";"Marokko, Ifni, Spaanse Sahara, Westelijke Sahara.";;"Long";"aantal";"0";"Impossible"
+"62";"47";"59";"Topic";"VoormaligNedAntillenAruba_47";"(voormalig) Ned. Antillen + Aruba";"Betreft een samentelling van de eilanden die tot het grondgebied van de Nederlandse Antillen en Aruba van vóór 10 oktober 2010 behoorden.
+Het gaat om de eilanden Bonaire, Curaçao, Saba, Sint-Eustatius, Sint-Maarten en Aruba.
+
+Vanaf 10 oktober 2010 zijn de Nederlandse Antillen ontbonden. Het Koninkrijk der Nederlanden bestaat dan uit vier landen: Nederland, Aruba, Curaçao en Sint Maarten. Alle eilanden hebben een nieuwe status. Curaçao en Sint Maarten zijn nieuwe landen binnen het Koninkrijk. Met een 'Status aparte' binnen het Koninkrijk zijn Curaçao en Sint Maarten autonome landen. De landen hebben een zelfstandig bestuur en zijn niet meer afhankelijk van Nederland. De openbare lichamen Bonaire, Sint Eustatius en Saba, ook wel Caribisch Nederland, hebben een diepere band met Nederland en functioneren als bijzondere gemeente van Nederland.
+
+Op 1 januari 1986 werd Aruba afgescheiden van de Nederlandse Antillen. Sinds die datum is Aruba een nieuw land binnen het Koninkrijk de Nederlanden. Met een 'Status aparte' binnen het Koninkrijk is Aruba een autonoom land. Aruba heeft een zelfstandig bestuur en is niet meer afhankelijk van Nederland.";;"Long";"aantal";"0";"Impossible"
+"63";"48";"59";"Topic";"Suriname_48";"Suriname";;;"Long";"aantal";"0";"Impossible"
+"64";"49";"59";"Topic";"Turkije_49";"Turkije";;;"Long";"aantal";"0";"Impossible"
+"65";"50";"59";"Topic";"OverigNietWesters_50";"Overig niet-westers";"Totaal niet-westers minus Marokko, (voormalige) Nederlandse Antillen en Aruba, Suriname en Turkije.";;"Double";"aantal";"0";"Impossible"
+"66";;"36";"TopicGroup";"";"2e generatie migratieachtergrond";"Persoon die in Nederland is geboren met ten minste één in het buitenland geboren ouder.";;;;;
+"67";"51";"66";"Topic";"Totaal2eGeneratieMigratieachtergrond_51";"Totaal 2e generatie migratieachtergrond";;;"Long";"aantal";"0";"Impossible"
+"68";;"66";"TopicGroup";"";"Westers";"Persoon met als migratieachtergrond een van de landen in Europa (exclusief Turkije), Noord-Amerika en Oceanië, en Indonesië en Japan. 
+Op grond van hun sociaal- economische en sociaal-culturele positie worden personen met een migratieachtergrond uit Indonesië en Japan tot de westerse migratieachtergrond gerekend. Het gaat vooral om mensen die in het voormalig Nederlands-Indië zijn geboren en werknemers van Japanse bedrijven met hun gezin.
+
+Persoon met een migratieachtergrond:
+Persoon van wie ten minste één ouder in het buitenland is geboren.
+
+Migratieachtergrond:
+Kenmerk dat weergeeft met welk land een persoon verbonden is op basis van het geboorteland van de ouders of van zichzelf.
+
+
+Een persoon met een eerste generatie migratieachtergrond heeft als migratieachtergrond het land waar hij of zij is geboren. 
+
+
+Een persoon met een tweede generatie migratieachtergrond heeft als migratieachtergrond het geboorteland van de moeder, tenzij dat ook Nederland is. In dat geval is de migratieachtergrond bepaald door het geboorteland van de vader. 
+
+
+Bij personen met een tweede generatie migratieachtergrond is er ook een onderscheid tussen personen met één of twee in het buitenland geboren ouders.
+
+Persoon met een eerste generatie migratieachtergrond:
+Persoon die in het buitenland is geboren met ten minste één in het buitenland geboren ouder.
+
+Persoon met een tweede generatie migratieachtergrond:
+Persoon die in Nederland is geboren en van wie ten minste één ouder in het buitenland is geboren.";;;;;
+"69";"52";"68";"Topic";"TotaalWesters_52";"Totaal westers";;;"Long";;"0";"Impossible"
+"70";"53";"68";"Topic";"MiddenEnOostEuropeseLandenInDeEU_53";"Midden- en Oost-Europese landen in de EU";"Landen in Midden- en Oost-Europa die zijn toegetreden tot de Europese Unie.
+Toegetreden per 1 mei 2004: Estland, Hongarije, Letland, Litouwen, Polen, Slovenië, Slowakije en Tsjechië.
+Toegetreden per 1 januari 2007: Bulgarije en Roemenië.
+Toegetreden per 1 juli 2013: Kroatië.
+
+Europese Unie:
+Samenwerkingsverband van Europese staten, onder deze naam opgericht in 1993 door het Verdrag van Maastricht, maar met voorlopers in de jaren '50 van de vorige eeuw, gericht op het bereiken van gemeenschappelijke doelen op het politieke, economische en juridische vlak. Een belangrijk doel is het vrije verkeer van personen, goederen, diensten en kapitaal binnen het samenwerkingsverband. Op veel terreinen hebben de lidstaten bevoegdheden overgedragen aan het samenwerkingsverband, daarnaast zijn er terreinen waarbij het zelfbeschikkingsrecht van de lidstaten is gehandhaafd en besluiten alleen bij eenstemmigheid kunnen worden genomen.";;"Long";;"0";"Impossible"
+"71";"54";"68";"Topic";"GIPSLandenInDeEU_54";"GIPS landen in de EU";"Landen rond de Middellandse zee die zijn toegetreden tot de Europese Unie.
+Toegetreden per 1 januari 1958: Italië.
+Toegetreden per 1 januari 1981: Griekenland.
+Toegetreden per 1 januari 1986: Portugal en Spanje.
+
+Europese Unie:
+Samenwerkingsverband van Europese staten, onder deze naam opgericht in 1993 door het Verdrag van Maastricht, maar met voorlopers in de jaren '50 van de vorige eeuw, gericht op het bereiken van gemeenschappelijke doelen op het politieke, economische en juridische vlak. Een belangrijk doel is het vrije verkeer van personen, goederen, diensten en kapitaal binnen het samenwerkingsverband. Op veel terreinen hebben de lidstaten bevoegdheden overgedragen aan het samenwerkingsverband, daarnaast zijn er terreinen waarbij het zelfbeschikkingsrecht van de lidstaten is gehandhaafd en besluiten alleen bij eenstemmigheid kunnen worden genomen.";;"Long";;"0";"Impossible"
+"72";"55";"68";"Topic";"OverigWesters_55";"Overig westers";"Totaal westers minus Midden- en Oost Europese landen in de EU en GIPS landen in de EU.
+
+Midden- en Oost Europese landen in de EU:
+Landen in Midden- en Oost-Europa die zijn toegetreden tot de Europese Unie.
+Toegetreden per 1 mei 2004: Estland, Hongarije, Letland, Litouwen, Polen, Slovenië, Slowakije en Tsjechië.
+Toegetreden per 1 januari 2007: Bulgarije en Roemenië.
+Toegetreden per 1 juli 2013: Kroatië.
+
+Europese Unie:
+Samenwerkingsverband van Europese staten, onder deze naam opgericht in 1993 door het Verdrag van Maastricht, maar met voorlopers in de jaren '50 van de vorige eeuw, gericht op het bereiken van gemeenschappelijke doelen op het politieke, economische en juridische vlak. Een belangrijk doel is het vrije verkeer van personen, goederen, diensten en kapitaal binnen het samenwerkingsverband. Op veel terreinen hebben de lidstaten bevoegdheden overgedragen aan het samenwerkingsverband, daarnaast zijn er terreinen waarbij het zelfbeschikkingsrecht van de lidstaten is gehandhaafd en besluiten alleen bij eenstemmigheid kunnen worden genomen.
+
+GIPS landen in de EU:
+Landen rond de Middellandse zee die zijn toegetreden tot de Europese Unie.
+Toegetreden per 1 januari 1958: Italië.
+Toegetreden per 1 januari 1981: Griekenland.
+Toegetreden per 1 januari 1986: Portugal en Spanje.";;"Long";;"0";"Impossible"
+"73";;"66";"TopicGroup";"";"Niet-westers";"Persoon met als migratieachtergrond een van de landen in Afrika, Latijns-Amerika en Azië (exclusief Indonesië en Japan) of Turkije. 
+Op grond van hun sociaal-economische en sociaal-culturele positie worden personen met een migratieachtergrond uit Indonesië en Japan tot de westerse migratieachtergrond gerekend. Het gaat vooral om mensen die in het voormalig Nederlands-Indië zijn geboren en werknemers van Japanse bedrijven met hun gezin.
+
+Persoon met een migratieachtergrond:
+Persoon van wie ten minste één ouder in het buitenland is geboren.
+
+Migratieachtergrond:
+Kenmerk dat weergeeft met welk land een persoon verbonden is op basis van het geboorteland van de ouders of van zichzelf.
+
+
+Een persoon met een eerste generatie migratieachtergrond heeft als migratieachtergrond het land waar hij of zij is geboren. 
+
+
+Een persoon met een tweede generatie migratieachtergrond heeft als migratieachtergrond het geboorteland van de moeder, tenzij dat ook Nederland is. In dat geval is de migratieachtergrond bepaald door het geboorteland van de vader. 
+
+
+Bij personen met een tweede generatie migratieachtergrond is er ook een onderscheid tussen personen met één of twee in het buitenland geboren ouders.
+
+Persoon met een eerste generatie migratieachtergrond:
+Persoon die in het buitenland is geboren met ten minste één in het buitenland geboren ouder.
+
+Persoon met een tweede generatie migratieachtergrond:
+Persoon die in Nederland is geboren met ten minste één in het buitenland geboren ouder.";;;;;
+"74";"56";"73";"Topic";"TotaalNietWesters_56";"Totaal niet-westers";;;"Long";"aantal";"0";"Impossible"
+"75";"57";"73";"Topic";"Marokko_57";"Marokko";"Marokko, Ifni, Spaanse Sahara, Westelijke Sahara.";;"Long";"aantal";"0";"Impossible"
+"76";"58";"73";"Topic";"VoormaligNedAntillenAruba_58";"(voormalig) Ned. Antillen + Aruba";"Betreft een samentelling van de eilanden die tot het grondgebied van de Nederlandse Antillen en Aruba van vóór 10 oktober 2010 behoorden.
+Het gaat om de eilanden Bonaire, Curaçao, Saba, Sint-Eustatius, Sint-Maarten en Aruba.
+
+Vanaf 10 oktober 2010 zijn de Nederlandse Antillen ontbonden. Het Koninkrijk der Nederlanden bestaat dan uit vier landen: Nederland, Aruba, Curaçao en Sint Maarten. Alle eilanden hebben een nieuwe status. Curaçao en Sint Maarten zijn nieuwe landen binnen het Koninkrijk. Met een 'Status aparte' binnen het Koninkrijk zijn Curaçao en Sint Maarten autonome landen. De landen hebben een zelfstandig bestuur en zijn niet meer afhankelijk van Nederland. De openbare lichamen Bonaire, Sint Eustatius en Saba, ook wel Caribisch Nederland, hebben een diepere band met Nederland en functioneren als bijzondere gemeente van Nederland.
+
+Op 1 januari 1986 werd Aruba afgescheiden van de Nederlandse Antillen. Sinds die datum is Aruba een nieuw land binnen het Koninkrijk de Nederlanden. Met een 'Status aparte' binnen het Koninkrijk is Aruba een autonoom land. Aruba heeft een zelfstandig bestuur en is niet meer afhankelijk van Nederland.";;"Long";"aantal";"0";"Impossible"
+"77";"59";"73";"Topic";"Suriname_59";"Suriname";;;"Long";"aantal";"0";"Impossible"
+"78";"60";"73";"Topic";"Turkije_60";"Turkije";;;"Long";"aantal";"0";"Impossible"
+"79";"61";"73";"Topic";"OverigNietWesters_61";"Overig niet-westers";"Totaal niet-westers minus Marokko, (voormalige) Nederlandse Antillen en Aruba, Suriname en Turkije.";;"Double";"aantal";"0";"Impossible"
+"80";;;"TopicGroup";"";"Particuliere huishoudens";"De cijfers tot en met 1987 zijn per 31 december, die van 1988 tot en met 1994 medio het waarnemingsjaar en vanaf 1995 per 1 januari.
+
+Eén of meer personen die samen een woonruimte bewonen en zichzelf, dus niet-bedrijfsmatig, voorzien in de dagelijkse levensbehoeften.
+
+Trendbreuk (personen in) particuliere huishoudens 
+Door de verbeterde waarneming van personen in institutionele huishoudens treedt vanaf 2014 een trendbreuk op in de ontwikkeling van het aantal eenpersoonshuishoudens/alleenstaanden. Circa 35 duizend personen die eerst voornamelijk als alleenstaanden getypeerd waren, verschuiven nu naar de institutionele huishoudens. Het aantal alleenstaanden steeg daardoor van 2013 op 2014 met maar duizend personen. Van 2012 op 2013 was die stijging nog 41 duizend personen. Ook de totale stijging van het aantal huishoudens liep als gevolg hiervan terug van 57 duizend van 2012 op 2013 naar 21 duizend van 2013 op 2014.
+Vanaf 2011 is er voor de samenstelling van huishoudensgegevens gebruik gemaakt van een nieuwe productiemethode. In deze nieuwe methode worden voor het bepalen van de huishoudenssamenstelling naast de gegevens uit het gemeentelijke bevolkingsregister ook belastingdienstgegevens over samenwonende paren gebruikt. De uitkomsten op basis van de nieuwe methode sluiten goed aan op de voorgaande uitkomsten, maar er treden vanaf 2011 wel kleine verschuivingen op in het aantal huishoudens naar samenstelling. De grootste verandering betreft het aantal overige huishoudens en de niet gehuwde paren. In 2011 valt het aantal overige huishoudens 10 duizend lager uit dan in 2010. Het aantal niet gehuwde paren valt navenant hoger uit.
+";;;;;
+"81";"62";"80";"Topic";"TotaalHuishoudens_62";"Totaal huishoudens";"Totaal particuliere huishoudens.";;"Long";"x 1 000";"0";"Impossible"
+"82";"63";"80";"Topic";"Eenpersoonshuishoudens_63";"Eenpersoonshuishoudens";"Particulier huishouden bestaande uit één persoon.
+Tot eenpersoonshuishoudens, ook wel alleenstaanden genoemd, worden ook personen gerekend die met anderen op eenzelfde adres wonen maar een eigen huishouding voeren. Alleenstaanden worden in alle burgerlijke staten aangetroffen; zo kunnen gehuwden na het stuklopen van hun relatie (in afwachting van een scheiding) alleen wonen.
+";;"Long";"x 1 000";"0";"Impossible"
+"83";"64";"80";"Topic";"Meerpersoonshuishoudens_64";"Meerpersoonshuishoudens";"Een particulier huishouden bestaande uit twee of meer personen.";;"Long";"x 1 000";"0";"Impossible"
+"84";"65";"80";"Topic";"GemiddeldeHuishoudensgrootte_65";"Gemiddelde huishoudensgrootte";"Gemiddeld aantal personen dat deel uitmaakt van een particulier huishouden.
+";;"Double";"aantal";"2";"Impossible"
+"85";"66";;"Topic";"PersonenInInstitutioneleHuishoudens_66";"Personen in institutionele huishoudens";"De cijfers tot en met 1987 zijn per 1 januari, die van 1988 tot en met 1994 medio het waarnemingsjaar en vanaf 1995 weer per 1 januari.
+
+Institutioneel huishouden:
+Eén of meer personen die samen een woonruimte bewonen en daar bedrijfsmatig worden voorzien in dagelijkse levensbehoeften. Ook de huisvesting vindt bedrijfsmatig plaats.
+Het gaat om instellingen zoals verpleeg-, verzorgings- en kindertehuizen, gezinsvervangende tehuizen, revalidatiecentra en penitentiaire inrichtingen, die daar in principe voor langere tijd (zullen) verblijven.
+
+Trendbreuk (personen in) institutionele huishoudens
+Tot en met 2012 zijn de gegevens over institutionele huishoudens gebaseerd op door gemeenten verstrekte adresinformatie. Vanaf 2014 is de waarneming daarvan volledig gebaseerd op secundaire waarneming. Het jaar 2013 is een tussenjaar. Startpunt was daar de adresinformatie over 2012 aangevuld met secundaire bronnen, waarbij aangetekend dient te worden dat de cijfers over 2013 mogelijk van wat mindere kwaliteit zijn. De belangrijkste bronnen voor de waarneming vanaf 2014 zijn: institutionele adressen op basis van zorgkaartnederland.nl en personen die AWBZ- zorg met verblijf ontvangen (Bron: Centraal Administratie Kantoor, CAK). Zie verder de korte onderzoekbeschrijving. De institutionele huishoudens worden met de nieuwe methodiek die in 2014 is toegepast beter waargenomen. Tevens zijn vanaf 2014 asielzoekers die woonachtig zijn in asielzoekerscentra en ingeschreven staan in het gemeentelijke bevolkingsregister bij de institutionele huishoudens ingedeeld. Als gevolg van deze wijzigingen worden in 2014 249 duizend personen in institutionele huishoudens geteld, naar schatting circa 35 duizend meer dan met de oude methode geteld zouden worden. 
+Vanaf 2011 is er voor de samenstelling van huishoudensgegevens gebruik gemaakt van een nieuwe productiemethode. In deze nieuwe methode worden voor het bepalen van de huishoudenssamenstelling naast de gegevens uit het bevolkingsregister ook belastingdienstgegevens over samenwonende paren gebruikt. Het aantal personen in institutionele huishoudens ligt op 1 januari 2011 bijna 11 duizend hoger dan op 1 januari 2010. Ongeveer de helft van deze stijging is veroorzaakt door verbeteringen in de methode van waarneming.
+";;"Long";"x 1 000";"0";"Impossible"
+"86";;;"TopicGroup";"";"Bevolkingsgroei";"De toe- of afname van de bevolking.
+
+Bevolking:
+De inwoners van Nederland.
+In de bevolkingsaantallen zijn uitsluitend personen begrepen die zijn opgenomen in het bevolkingsregister van een Nederlandse gemeente. 
+In principe wordt iedereen die voor onbepaalde tijd in Nederland woont, opgenomen in het bevolkingsregister van de woongemeente. Personen die tot de bevolking van Nederland behoren, maar voor wie geen vaste woonplaats valt aan te wijzen, zijn opgenomen in het bevolkingsregister van de gemeente 's-Gravenhage.
+In de bevolkingsregisters zijn niet opgenomen de in Nederland wonende personen waarvoor uitzonderingsregels gelden met betrekking tot opneming in de bevolkingsregisters (bijvoorbeeld diplomaten en NAVO militairen) en personen die niet legaal in Nederland verblijven.";;;;;
+"87";"67";"86";"Topic";"TotaleBevolkingsgroei_67";"Totale bevolkingsgroei";;;"Long";"aantal";"0";"Impossible"
+"88";"68";"86";"Topic";"TotaleBevolkingsgroeiRelatief_68";"Totale bevolkingsgroei, relatief";"Totale bevolkingsgroei per duizend van de bevolking op 1 januari.";;"Double";"per 1 000 inwoners";"1";"Impossible"
+"89";"69";"86";"Topic";"LevendGeborenKind_69";"Levend geboren kind";"Kind dat na geboorte enig teken van leven heeft vertoond, ongeacht de zwangerschapsduur.";;"Long";"aantal";"0";"Impossible"
+"90";"70";"86";"Topic";"Overledenen_70";"Overledenen";"Persoon die is overleden waarbij een bevoegde arts een overlijdensakte heeft ondertekend.";;"Long";"aantal";"0";"Impossible"
+"91";"71";"86";"Topic";"Geboorteoverschot_71";"Geboorteoverschot";"Het aantal levend geboren kinderen min het aantal overledenen.
+
+Levend geboren kind:
+Kind dat na geboorte enig teken van leven heeft vertoond, ongeacht de zwangerschapsduur.
+
+Overledene:
+Persoon die is overleden waarbij een bevoegde arts een overlijdensakte heeft ondertekend.";;"Long";"aantal";"0";"Impossible"
+"92";"72";"86";"Topic";"GeboorteoverschotRelatief_72";"Geboorteoverschot, relatief";"Geboorteoverschot per duizend van de gemiddelde bevolking.
+
+Geboorteoverschot:
+Het aantal levend geboren kinderen min het aantal overledenen.
+
+Levend geboren kind:
+Kind dat na geboorte enig teken van leven heeft vertoond, ongeacht de zwangerschapsduur.
+
+Overledene:
+Persoon die is overleden waarbij een bevoegde arts een overlijdensakte heeft ondertekend.";;"Double";"per 1 000 inwoners";"1";"Impossible"
+"93";"73";"86";"Topic";"Immigratie_73";"Immigratie";"Vestiging van personen vanuit het buitenland in Nederland.
+Om als immigrant te kunnen worden geteld dienen deze personen ingeschreven te worden in de gemeentelijke bevolkingsregisters.
+Tot en met september 1994: een aantal speciale gevallen uitgezonderd, vond opneming voor een persoon met de Nederlandse nationaliteit plaats als deze zich voor langer dan 30 dagen dacht te vestigen en voor een persoon met een niet-Nederlandse nationaliteit als de verwachte vestigingsduur de 180 dagen overschreed.
+Vanaf oktober 1994: men wordt ingeschreven als men verwacht minimaal vier maanden Nederland te blijven.
+
+Trendbreuk buitenlandse migratiecijfers
+Door een verbetering in het productieproces vindt er een kleine verschuiving plaats in de cijfers van de buitenlandse migratie.
+Met ingang van 2010 zijn de volgende wijzigingen doorgevoerd:
+- administratieve opnemingen die voorafgegaan worden door emigratie worden nu beschouwd als immigratie;
+- administratieve afvoeringen die gevolgd worden door immigratie worden nu beschouwd als emigratie.
+";;"Long";"aantal";"0";"Impossible"
+"94";"74";"86";"Topic";"EmigratieInclusiefAdministratieveC_74";"Emigratie inclusief administratieve c...";"Emigratie inclusief het saldo van de administratieve correcties.
+Cijfers over emigratie inclusief het saldo van de administratieve correcties geven een beter beeld van de werkelijke emigratie dan cijfers over emigratie exclusief deze correcties.
+Aangezien de reeks administratieve correcties bestaat vanaf 1977 moet er rekening worden gehouden met een trendbreuk.
+
+Trendbreuk buitenlandse migratiecijfers
+Door een verbetering in het productieproces vindt er een kleine verschuiving plaats in de cijfers van de buitenlandse migratie. Met ingang van 2010 zijn de volgende wijzigingen doorgevoerd:
+- administratieve opnemingen die voorafgegaan worden door emigratie worden nu beschouwd als immigratie;
+- administratieve afvoeringen die gevolgd worden door immigratie worden nu beschouwd als emigratie.
+Door de verbetering in het productieproces is het saldo overige correcties sterk verminderd vanaf 2010.
+
+Emigratie:
+Vertrek van personen naar het buitenland.
+Tot en met september 1994 werd men uit het bevolkingsregister afgevoerd wanneer men Nederland voor langer dan 360 dagen dacht te verlaten. 
+Met ingang van oktober 1994 geldt dat de verwachte verblijfsduur in het buitenland ten minste acht maanden bedraagt. Het gaat hier steeds om de aan de gemeente gemelde emigratie.
+
+Saldo administratieve correcties:
+Administratieve opnemingen in de gemeentelijke bevolkingsregisters min de administratieve afvoeringen uit de gemeentelijke bevolkingsregisters.
+
+Administratieve opneming:
+Opneming van een persoon in de bevolkingsregisters van een gemeente op verzoek van de betrokkene. Deze opneming is niet het gevolg van geboorte, immigratie of vestiging van die persoon vanuit een andere gemeente in Nederland. Een administratieve opneming is meestal een hervestiging van een persoon die eerder administratief is afgevoerd en die verklaart nooit uit Nederland te zijn weggeweest.
+
+Administratieve afvoering:
+Verwijdering van een persoon uit het  gemeentelijke bevolkingsregister van een gemeente nadat de gemeente heeft vastgesteld dat de verblijfplaats van deze persoon niet bekend is, deze persoon niet bereikbaar is en waarschijnlijk geen inwoner meer is van een Nederlandse gemeente.
+Een administratieve afvoering is meestal het gevolg van het vertrek van een persoon naar het buitenland zonder dat deze de gemeente hiervan op de hoogte heeft gesteld.
+";;"Long";"aantal";"0";"Impossible"
+"95";"75";"86";"Topic";"MigratiesaldoInclusiefAdministratie_75";"Migratiesaldo inclusief administratie...";"Migratiesaldo inclusief het saldo van de administratieve correcties.
+Cijfers over het migratiesaldo inclusief het saldo van de administratieve correcties geven een beter beeld van het werkelijke migratiesaldo dan cijfers over het migratiesaldo exclusief deze correcties. 
+Aangezien de reeks administratieve correcties bestaat vanaf 1977 moet er rekening worden gehouden met een trendbreuk.
+
+Trendbreuk buitenlandse migratiecijfers
+Door een verbetering in het productieproces vindt er een kleine verschuiving plaats in de cijfers van de buitenlandse migratie. Met ingang van 2010 zijn de volgende wijzigingen doorgevoerd:
+- administratieve opnemingen die voorafgegaan worden door emigratie worden nu beschouwd als immigratie;
+- administratieve afvoeringen die gevolgd worden door immigratie worden nu beschouwd als emigratie.
+Door de verbetering in het productieproces is het saldo overige correcties sterk verminderd vanaf 2010.
+
+Migratiesaldo:
+Personen die zich in Nederland vestigen min inwoners die Nederland verlaten om zich buiten Nederland te vestigen.
+
+Saldo administratieve correcties:
+Administratieve opnemingen in de gemeentelijke bevolkingsregisters min de administratieve afvoeringen uit de gemeentelijke bevolkingsregisters.
+
+Administratieve opneming:
+Opneming van een persoon in de bevolkingsregisters van een gemeente op verzoek van de betrokkene. Deze opneming is niet het gevolg van geboorte, immigratie of vestiging van die persoon vanuit een andere gemeente in Nederland. Een administratieve opneming is meestal een hervestiging van een persoon die eerder administratief is afgevoerd en die verklaart nooit uit Nederland te zijn weggeweest.
+
+Administratieve afvoering:
+Verwijdering van een persoon uit het gemeentelijke bevolkingsregister van een gemeente nadat de gemeente heeft vastgesteld dat de verblijfplaats van deze persoon niet bekend is, deze persoon niet bereikbaar is en waarschijnlijk geen inwoner meer is van een Nederlandse gemeente.
+ Een administratieve afvoering is meestal het gevolg van het vertrek van een persoon naar het buitenland zonder dat deze de gemeente hiervan op de hoogte heeft gesteld.
+
+";;"Long";"aantal";"0";"Impossible"
+"96";"76";"86";"Topic";"MigratiesaldoInclusiefCoRelatief_76";"Migratiesaldo (inclusief co..), relatief";"Migratiesaldo inclusief het saldo van de administratieve correcties per duizend van de gemiddelde bevolking.
+Cijfers over het migratiesaldo inclusief het saldo van de administratieve correcties geven een beter beeld van het werkelijke migratiesaldo dan cijfers over het migratiesaldo exclusief deze correcties. Aangezien de reeks administratieve correcties bestaat vanaf 1977 moet er rekening worden gehouden met een trendbreuk.
+
+Trendbreuk buitenlandse migratiecijfers
+Door een verbetering in het productieproces vindt er een kleine verschuiving plaats in de cijfers van de buitenlandse migratie. Met ingang van 2010 zijn de volgende wijzigingen doorgevoerd:
+- administratieve opnemingen die voorafgegaan worden door emigratie worden nu beschouwd als immigratie;
+- administratieve afvoeringen die gevolgd worden door immigratie worden nu beschouwd als emigratie.
+Door de verbetering in het productieproces is het saldo overige correcties sterk verminderd vanaf 2010.
+
+Migratiesaldo:
+Personen die zich in Nederland vestigen min inwoners die Nederland verlaten om zich buiten Nederland te vestigen.
+
+Saldo administratieve correcties:
+Administratieve opnemingen in de gemeentelijke bevolkingsregisters min de administratieve afvoeringen uit de gemeentelijke bevolkingsregisters.
+
+Administratieve opneming:
+Opneming van een persoon in de bevolkingsregisters van een gemeente op verzoek van de betrokkene. Deze opneming is niet het gevolg van geboorte, immigratie of vestiging van die persoon vanuit een andere gemeente in Nederland. Een administratieve opneming is meestal een hervestiging van een persoon die eerder administratief is afgevoerd en die verklaart nooit
+uit Nederland te zijn weggeweest.
+
+Administratieve afvoering:
+Verwijdering van een persoon uit de bevolkingsregisters van een gemeente nadat de gemeente heeft vastgesteld dat de verblijfplaats van deze persoon niet bekend is, deze persoon niet bereikbaar is en waarschijnlijk geen inwoner meer is van een Nederlandse gemeente. Een administratieve afvoering is meestal het gevolg van het vertrek van een persoon naar het buitenland zonder dat deze de gemeente hiervan op de hoogte heeft gesteld.";;"Double";"per 1 000 inwoners";"1";"Impossible"
+"97";"77";"86";"Topic";"OverigeCorrecties_77";"Overige correcties";"Verschillen in de bevolkingsomvang en samenstelling tussen twee opeenvolgende jaren die niet kunnen worden verklaard uit de door de gemeenten gedurende het jaar doorgevoerde wijzigingen in de bevolkingsregisters.";;"Long";"aantal";"0";"Impossible"
+"98";"78";;"Topic";"Bevolkingsdichtheid_78";"Bevolkingsdichtheid";"Bevolking op 1 januari gedeeld door de oppervlakte land in km².
+
+Bevolking:
+De inwoners van Nederland.
+In de bevolkingsaantallen zijn uitsluitend personen begrepen die zijn opgenomen in het bevolkingsregister van een Nederlandse gemeente. 
+In principe wordt iedereen die voor onbepaalde tijd in Nederland woont, opgenomen in het bevolkingsregister van de woongemeente. Personen die tot de bevolking van Nederland behoren, maar voor wie geen vaste woonplaats valt aan te wijzen, zijn opgenomen in het bevolkingsregister van de gemeente 's-Gravenhage.
+In de bevolkingsregisters zijn niet opgenomen de in Nederland wonende personen waarvoor uitzonderingsregels gelden met betrekking tot opneming in de bevolkingsregisters (bijvoorbeeld diplomaten en NAVO militairen) en personen die niet legaal in Nederland verblijven.";;"Long";"aantal";"0";"Impossible"
+"Perioden"
+Key;Title;Description;Status
+"1950JJ00";"1950";;"Definitief"
+"1951JJ00";"1951";;"Definitief"
+"1952JJ00";"1952";;"Definitief"
+"1953JJ00";"1953";;"Definitief"
+"1954JJ00";"1954";;"Definitief"
+"1955JJ00";"1955";;"Definitief"
+"1956JJ00";"1956";;"Definitief"
+"1957JJ00";"1957";;"Definitief"
+"1958JJ00";"1958";;"Definitief"
+"1959JJ00";"1959";;"Definitief"
+"1960JJ00";"1960";;"Definitief"
+"1961JJ00";"1961";;"Definitief"
+"1962JJ00";"1962";;"Definitief"
+"1963JJ00";"1963";;"Definitief"
+"1964JJ00";"1964";;"Definitief"
+"1965JJ00";"1965";;"Definitief"
+"1966JJ00";"1966";;"Definitief"
+"1967JJ00";"1967";;"Definitief"
+"1968JJ00";"1968";;"Definitief"
+"1969JJ00";"1969";;"Definitief"
+"1970JJ00";"1970";;"Definitief"
+"1971JJ00";"1971";;"Definitief"
+"1972JJ00";"1972";;"Definitief"
+"1973JJ00";"1973";;"Definitief"
+"1974JJ00";"1974";;"Definitief"
+"1975JJ00";"1975";;"Definitief"
+"1976JJ00";"1976";;"Definitief"
+"1977JJ00";"1977";;"Definitief"
+"1978JJ00";"1978";;"Definitief"
+"1979JJ00";"1979";;"Definitief"
+"1980JJ00";"1980";;"Definitief"
+"1981JJ00";"1981";;"Definitief"
+"1982JJ00";"1982";;"Definitief"
+"1983JJ00";"1983";;"Definitief"
+"1984JJ00";"1984";;"Definitief"
+"1985JJ00";"1985";;"Definitief"
+"1986JJ00";"1986";;"Definitief"
+"1987JJ00";"1987";;"Definitief"
+"1988JJ00";"1988";;"Definitief"
+"1989JJ00";"1989";;"Definitief"
+"1990JJ00";"1990";;"Definitief"
+"1991JJ00";"1991";;"Definitief"
+"1992JJ00";"1992";;"Definitief"
+"1993JJ00";"1993";;"Definitief"
+"1994JJ00";"1994";;"Definitief"
+"1995JJ00";"1995";;"Definitief"
+"1996JJ00";"1996";;"Definitief"
+"1997JJ00";"1997";;"Definitief"
+"1998JJ00";"1998";;"Definitief"
+"1999JJ00";"1999";;"Definitief"
+"2000JJ00";"2000";;"Definitief"
+"2001JJ00";"2001";;"Definitief"
+"2002JJ00";"2002";;"Definitief"
+"2003JJ00";"2003";;"Definitief"
+"2004JJ00";"2004";;"Definitief"
+"2005JJ00";"2005";;"Definitief"
+"2006JJ00";"2006";;"Definitief"
+"2007JJ00";"2007";;"Definitief"
+"2008JJ00";"2008";;"Definitief"
+"2009JJ00";"2009";;"Definitief"
+"2010JJ00";"2010";;"Definitief"
+"2011JJ00";"2011";"";"Definitief"
+"2012JJ00";"2012";"";"Definitief"
+"2013JJ00";"2013";"";"Definitief"
+"2014JJ00";"2014";;"Definitief"
+"2015JJ00";"2015";;"Definitief"
+"2016JJ00";"2016";;"Definitief"
+"2017JJ00";"2017";;"Definitief"
+"2018JJ00";"2018";;"Definitief"
+"2019JJ00";"2019";;"Definitief"
