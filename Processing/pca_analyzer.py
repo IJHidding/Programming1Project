@@ -14,23 +14,23 @@ class PcaAnalysis:
     def __init__(self, dataframe):
         self.data_frame = dataframe
         self.data_frame = self.data_frame[self.data_frame.TotaalAlleOnderliggendeDoodsoorzaken_1.notnull()]
-        print(self.data_frame['TotaalAlleOnderliggendeDoodsoorzaken_1'])
+        # print(self.data_frame['TotaalAlleOnderliggendeDoodsoorzaken_1'])
         # print(list(self.data_frame.columns))
         self.features = list(self.data_frame.columns)
 
         self.features.remove('TotaalAlleOnderliggendeDoodsoorzaken_1')
-        self.features.remove('RegioS_x')
-        self.features.remove('RegioS_y')
-        self.features.remove('RegioS')
-        self.features.remove('Geslacht_x')
-        self.features.remove('Geslacht_y')
+        # self.features.remove('RegioS_x')
+        # self.features.remove('RegioS_y')
+        # self.features.remove('RegioS')
+        # self.features.remove('Geslacht_x')
+        # self.features.remove('Geslacht_y')
         # self.features.remove('Geslacht')
         # self.features.remove('Perioden')
         # self.features.remove('Perioden_x')
         # self.features.remove('Perioden_y')
-        self.features.remove('ID')
-        self.features.remove('ID_x')
-        self.features.remove('ID_y')
+        # self.features.remove('ID')
+        # self.features.remove('ID_x')
+        # self.features.remove('ID_y')
         # print(self.features)
         # print(self.features)
         for feature in self.features:
