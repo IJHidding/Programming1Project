@@ -14,21 +14,21 @@ from Processing.constructor import DFConstuctor
 from Visualizers.plotter import Plotter
 
 def ProvinceSelector(Province):
-    Bevolking_leeftijd = CsvParser('Data/03759ned_UntypedDataSet_05022020_161839.csv',
+    Bevolking_leeftijd = CsvParser('Data/03759ned_UntypedDataSet_07022020_153926.csv',
                                    Province).get_data_frame().iloc[:, [2, 6]][1:]
-    Bevolking_leeftijd_correction = CsvParser('Data/03759ned_UntypedDataSet_05022020_161839.csv',
+    Bevolking_leeftijd_correction = CsvParser('Data/03759ned_UntypedDataSet_07022020_153926.csv',
                                               Province).get_data_frame().iloc[:, [2, 6]][:1]
-
+    # print(Bevolking_leeftijd_correction)
     Bevolking_leeftijd_corrected = (Bevolking_leeftijd['BevolkingOp1Januari_1'].astype(int).div(
         int(Bevolking_leeftijd_correction['BevolkingOp1Januari_1'].iloc[0]))) * 100
-
+    # print(Bevolking_leeftijd_corrected)
     Bevolking_percentage = AgeMerger(Bevolking_leeftijd_corrected).get_data_frame()
 
     # Deaths
     Deaths = CsvParser('Data/80202ned_UntypedDataSet_31012020_123258.csv',
-                       Province).get_data_frame().drop(columns=["ID","Geslacht","Leeftijd","RegioS","Perioden"])
+                       Province).get_data_frame().drop(columns=["ID","Geslacht","Leeftijd","RegioS","Perioden"])[1:]
     # .iloc[:, [1, 2, 3, 4, 5]]
-    Deaths_corrected = (Deaths.fillna(0).astype(int).div(
+    Deaths_corrected = (Deaths['TotaalAlleOnderliggendeDoodsoorzaken_1'].fillna(0).astype(int).div(
         int(Bevolking_leeftijd_correction['BevolkingOp1Januari_1'].iloc[0]))) * 100000
     # print(Deaths_corrected)
 
@@ -38,7 +38,7 @@ def ProvinceSelector(Province):
 
     # print(Deaths)
     Distances = CsvParser('Data/80305ned_UntypedDataSet_31012020_124042.csv',
-                          Province).get_data_frame().iloc[:, [3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]]
+                          Province).get_data_frame().iloc[:, [3, 7, 8, 9, 13]]
     # print(Distances)
     tablequality = OnlineParser("https://www.rivm.nl/media/milieu-en-leefomgeving/hoeschoonisonzelucht/",
                                 Province).get_data_frame().iloc[:, [2, 3]]
@@ -47,9 +47,12 @@ def ProvinceSelector(Province):
     # Population = CsvParser("Data/70072ned_UntypedDataSet_29122019_191739.csv",
     #                        Province).get_data_frame().iloc[:, [15, 16, 17, 18, 19, 20, 21, 22, 23]]
     # print(Bevolking_percentage.values.tolist())
-
-    finaldataframe = Deaths_corrected[1:]
-    finaldataframe['Age'] = Bevolking_percentage
+    # print(Bevolking_percentage)
+    finaldataframe = pd.DataFrame(Deaths_corrected)
+    # finaldataframe = finaldataframe.rename(columns=['TotaalAlleOnderliggendeDoodsoorzaken_1'])
+    # print(finaldataframe)
+    # print(Bevolking_percentage['Age'])
+    finaldataframe['Age'] = Bevolking_percentage['Age'].values.tolist()
     # finaldataframe['Deaths'] = Deaths_corrected[1:].values.tolist()
     # print(finaldataframe)
     # print(DFConstuctor(Bevolking_percentage.iloc[:, [0]].values.tolist(), Deaths["TotaalAlleOnderliggendeDoodsoorzaken_1"][1:].values.tolist()).get_data_frame())
@@ -77,11 +80,17 @@ def ProvinceSelector(Province):
 def main():
     Gron_dataframe = ProvinceSelector("Groningen")
     Flev_dataframe = ProvinceSelector("Flevoland")
-    # Dren_dataframe = ProvinceSelector("Drenthe")
-    # Geld_dataframe = ProvinceSelector("Gelderland")
-    # Over_dataframe = ProvinceSelector("Overijssel")
-    # Fries_dataframe = ProvinceSelector("Friesland")
-    # Noord_dataframe = ProvinceSelector("Noord-Holland")
+    Dren_dataframe = ProvinceSelector("Drenthe")
+    Geld_dataframe = ProvinceSelector("Gelderland")
+    Over_dataframe = ProvinceSelector("Overijssel")
+    Fries_dataframe = ProvinceSelector("Friesland")
+    Noord_dataframe = ProvinceSelector("Noord-Holland")
+    Zuid_dataframe = ProvinceSelector("Zuid-Holland")
+    Zee_dataframe = ProvinceSelector("Zeeland")
+    Lim_dataframe = ProvinceSelector("Limburg")
+    Bra_dataframe = ProvinceSelector("Noord_Brabant")
+    Utr_dataframe = ProvinceSelector("Utrecht")
+    print(Utr_dataframe['Age'])
 
     # print(Gron_dataframe, Flev_dataframe)
 
@@ -108,8 +117,11 @@ def main():
     # Gron_merged = DataframeMerger(Gron1, Gron2).get_data_frame()
     # Flev_merged = DataframeMerger(Flev1, Flev2).get_data_frame()
     #
-    Big_Frame = pd.concat([Gron_dataframe, Flev_dataframe], ignore_index=True)
+    Big_Frame = pd.concat([Gron_dataframe, Flev_dataframe, Dren_dataframe, Fries_dataframe,
+                           Geld_dataframe, Over_dataframe, Noord_dataframe, Zee_dataframe,
+                           Zuid_dataframe, Lim_dataframe, Utr_dataframe, Bra_dataframe], ignore_index=True)
     #
+    Big_Frame.to_csv('Data/outputfile.csv')
     pca_dataframe = PcaAnalysis(Big_Frame).get_data_frame()
     plot = Plotter("PCA", pca_dataframe).get_plot()
     show(plot)

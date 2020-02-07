@@ -7,7 +7,9 @@ class AgeMerger:
 
     def agemerger(self, populationdf):
         # print(dataframe)
+        # print(populationdf)
         row1 = sum(populationdf[:50])
+        # print(row1)
         row2 = sum(populationdf[50:60])
         row3 = sum(populationdf[60:65])
         row4 = sum(populationdf[65:70])
@@ -17,6 +19,7 @@ class AgeMerger:
         row8 = sum(populationdf[85:90])
         row9 = sum(populationdf[90:])
         dataframe = pd.DataFrame([row1, row2, row3, row4, row5, row6, row7, row8, row9], columns=['Age'])
+        # print(dataframe)
         return dataframe
 
     def get_data_frame(self):

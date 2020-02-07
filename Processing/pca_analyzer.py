@@ -58,7 +58,7 @@ class PcaAnalysis:
         principalDf = pd.DataFrame(data=principalComponents,
                                    columns=['principal component 1', 'principal component 2'])
         # print(self.data_frame)
-        print(pca.explained_variance_ratio_)
+        # print(pca.explained_variance_ratio_)
         # print(pd.concat([principalDf, self.data_frame[self.target]], axis=1))
         return pd.concat([principalDf, self.data_frame[self.target]], axis=1)
 
@@ -90,7 +90,7 @@ class PcaAnalysis:
         plt.show()
 
     def find_var(self, data_frame):
-
+        print(data_frame)
         df = data_frame.loc[:, self.features].values
         # print(df)
         print(np.std(df, axis=0) == 0)
