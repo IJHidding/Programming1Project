@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from matplotlib import colors
 from sklearn.preprocessing import StandardScaler
 from sklearn.decomposition import PCA
-from sklearn.feature_selection import SelectKBest, f_regression
+from sklearn.feature_selection import SelectKBest, f_regression, f_classif
 
 
 
@@ -21,7 +21,7 @@ class PcaAnalysis:
         self.features.remove('TotaalAlleOnderliggendeDoodsoorzaken_1')
         # self.features.remove('RegioS_x')
         # self.features.remove('RegioS_y')
-        # self.features.remove('RegioS')
+        self.features.remove('RegioS')
         # self.features.remove('Geslacht_x')
         # self.features.remove('Geslacht_y')
         # self.features.remove('Geslacht')
@@ -41,7 +41,10 @@ class PcaAnalysis:
         # self.targets = ["PV20  ", "PV24  "]
         self.target = ["TotaalAlleOnderliggendeDoodsoorzaken_1"]
         self.final_data_frame = self.analysis()
-        self.find_var()
+        self.find_var(self.data_frame)
+        # self.find_var(self.data_frame[self.data_frame['RegioS'] == "PV20  "])
+        # self.find_var(self.data_frame[self.data_frame['RegioS'] == "PV24  "])
+        self.final_data_frame['RegioS'] = self.data_frame['RegioS']
         # self.test_plot()
 
     def analysis(self):
@@ -86,15 +89,17 @@ class PcaAnalysis:
         ax.grid()
         plt.show()
 
-    def find_var(self):
+    def find_var(self, data_frame):
 
-        df = self.data_frame.loc[:, self.features].values
+        df = data_frame.loc[:, self.features].values
+        # print(df)
+        print(np.std(df, axis=0) == 0)
         # names = df.columns
         scaler = StandardScaler()
         standardizeddf = scaler.fit_transform(df)
         standardizeddf = pd.DataFrame(standardizeddf, columns=self.features)
         bestfeatures = SelectKBest(score_func=f_regression, k=10)
-        fit = bestfeatures.fit(standardizeddf, np.ravel(self.data_frame[self.target]))
+        fit = bestfeatures.fit(standardizeddf, np.ravel(data_frame[self.target]))
         # print(fit.scores_)
         scores = fit.scores_
         plt.figure(figsize=(10, 6))
@@ -108,40 +113,3 @@ class PcaAnalysis:
     def get_data_frame(self):
         return self.final_data_frame
 
-
-
-# features = ['sepal length', 'sepal width', 'petal length', 'petal width']# Separating out the features
-#
-# x = df.loc[:, features].values# Separating out the target
-# y = df.loc[:, ['target']].values# Standardizing the features
-# x = StandardScaler().fit_transform(x)
-#
-#
-# pca = PCA(n_components=2)
-#
-# principalComponents = pca.fit_transform(x)
-#
-# principalDf = pd.DataFrame(data=principalComponents,
-#                            columns=['principal component 1', 'principal component 2'])
-#
-# finalDf = pd.concat([principalDf, df[['target']]], axis = 1)
-#
-# ##plotting
-#
-# fig = plt.figure(figsize = (8,8))
-# ax = fig.add_subplot(1,1,1)
-# ax.set_xlabel('Principal Component 1', fontsize = 15)
-# ax.set_ylabel('Principal Component 2', fontsize = 15)
-# ax.set_title('2 component PCA', fontsize = 20)targets = ['Iris-setosa', 'Iris-versicolor', 'Iris-virginica']
-# colors = ['r', 'g', 'b']
-# for target, color in zip(targets,colors):
-#     indicesToKeep = finalDf['target'] == target
-#     ax.scatter(finalDf.loc[indicesToKeep, 'principal component 1']
-#                , finalDf.loc[indicesToKeep, 'principal component 2']
-#                , c = color
-#                , s = 50)
-# ax.legend(targets)
-# ax.grid()
-
-
-#pca.explained_variance_ratio_
