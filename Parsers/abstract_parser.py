@@ -1,3 +1,9 @@
+"""
+Author = "Iwan Hidding"
+
+This is an abstract class from the abstract factory design pattern. It is used as a basis for the parser functions in
+this program.
+"""
 import pandas as pd
 from abc import ABC, abstractmethod
 
@@ -8,7 +14,6 @@ class AbstractDataParser(ABC):
     def parse_file(self, filename: str) -> pd.DataFrame:
         """
         None, overwritten by subclass.
-        :param filename: Path to filename in zipfile.
         """
         pass
 

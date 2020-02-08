@@ -1,13 +1,15 @@
 import pandas as pd
 from functools import reduce
+from Processing.abstractprocessor import AbstractProcessor
 
-class DataframeMerger:
+
+class DataframeMerger(AbstractProcessor):
 
     def __init__(self, *args, on):
         # print(on)
-        self.data_frame = self.merger(*args, on=on)
+        self.data_frame = self.method(*args, on=on)
 
-    def merger(self, *args, on):
+    def method(self, *args, on):
         return reduce(lambda left, right: pd.merge(left, right, left_on=[on],
                                                    right_on=[on],
                                                    how='outer'), args)

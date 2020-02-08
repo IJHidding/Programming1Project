@@ -1,11 +1,13 @@
 import pandas as pd
+from Processing.abstractprocessor import AbstractProcessor
 
-class DFConstuctor:
+
+class DFConstructor(AbstractProcessor):
 
     def __init__(self, *args):
-        self.data_frame = self.constructor(args)
+        self.data_frame = self.method(args)
 
-    def constructor(self, *args):
+    def method(self, *args):
         print(*args)
         dataframe = pd.DataFrame.from_records(*args)
         return dataframe
