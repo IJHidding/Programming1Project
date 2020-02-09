@@ -69,6 +69,9 @@ The most important unit tests run are the online test, which indicate if the onl
 this tests if the coding for the provinces is the same. An additional check is done on the single rowed data. If all three pass 
 the data is the same and the analysis will run properly. 
 
+Unit tests can be run using the command: `python Unittest.py`
+It will run three tests and as long as these come out fine the program should work. 
+
 ### Disclaimer & Copyright
 Copyright 2020 Iwan Hidding
 

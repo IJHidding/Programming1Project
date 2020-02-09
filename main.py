@@ -32,6 +32,7 @@ def ProvinceSelector(province):
     :param province: Any Dutch province as a string
     :return: A data frame containing all the data from that province from the raw data.
     """
+    ## can be improved
     Bevolking_leeftijd = CsvParser('Data/03759ned_UntypedDataSet_07022020_153926.csv',
                                    province).get_data_frame().iloc[:, [2, 6]][1:]
 
@@ -95,7 +96,7 @@ def main():
         listofprofdata.append(ProvinceSelector(province))
 
     Big_Frame = pd.concat(listofprofdata, ignore_index=True)
-    Big_Frame.to_csv('Data/outputfile.csv')
+
     pca = PcaAnalysis(Big_Frame)
     scatterplot = ScatterPlotter("PCA with grey scaling based on deaths",
                                  pca.get_data_frame(), listofprovinces).get_plot()
