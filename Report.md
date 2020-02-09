@@ -1,4 +1,7 @@
 # Differences in Dutch provinces correlated with relative deaths
+Iwan Hidding, Data Science for the Life Sciences, Hanze Hogeschool
+ 
+ 9th Februari 2020
 
 ## Introduction
 When looking at the raw number of deaths per Dutch province, a large difference was noticed,
