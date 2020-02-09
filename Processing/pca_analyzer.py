@@ -21,6 +21,7 @@ class PcaAnalysis:
         after the logic.
         :param dataframe: A dataframe containing all the data from the provinces combined
         """
+        self.variance_explained = []
         self.data_frame = dataframe
         self.data_frame = self.data_frame[self.data_frame.TotaalAlleOnderliggendeDoodsoorzaken_1.notnull()]
         self.features = list(self.data_frame.columns)
@@ -34,6 +35,7 @@ class PcaAnalysis:
         self.scores = self.find_var()
         self.final_data_frame['RegioS'] = self.data_frame['RegioS']
 
+
     def analysis(self):
         """
         This function runs the PCA analysis.
@@ -44,6 +46,7 @@ class PcaAnalysis:
         pca = PCA(n_components=2)
         principalComponents = pca.fit_transform(x)
 
+        self.variance_explained = pca.explained_variance_ratio_
         principalDf = pd.DataFrame(data=principalComponents,
                                    columns=['principal component 1', 'principal component 2'])
         return pd.concat([principalDf, self.data_frame[self.target]], axis=1)
@@ -82,3 +85,10 @@ class PcaAnalysis:
         :return: Returns a list containing features.
         """
         return self.features
+
+    def get_variance(self):
+        """
+        The function which gives a method to get the features from the class.
+        :return: Returns a list containing the variance ratio.
+        """
+        return self.variance_explained

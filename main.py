@@ -10,7 +10,7 @@ command line any combination can be set.
 
 import pandas as pd
 from bokeh.plotting import show
-from bokeh.layouts import row
+from bokeh.layouts import gridplot, row, column
 import argparse
 import sys
 from Parsers.csv_parser import CsvParser
@@ -21,6 +21,7 @@ from Processing.agemerger import AgeMerger
 from Processing.pca_analyzer import PcaAnalysis
 from Visualizers.plotter import ScatterPlotter
 from Visualizers.barplot import BarPlotter
+from Visualizers.textplot import TextPlotter
 
 
 def ProvinceSelector(province):
@@ -76,7 +77,7 @@ def main():
     """
     backuplistofprovinces = ["Groningen", "Friesland", "Drenthe", "Gelderland",
                        "Flevoland", "Overijssel", "Utrecht", "Noord-Holland",
-                       "Zuid-Holland", "Zeeland", "Noord_Brabant", "Limburg"]
+                       "Zuid-Holland", "Zeeland", "Noord-Brabant", "Limburg"]
     parser = argparse.ArgumentParser(
         description='PCA and regression analyzer on deaths and related data in the twelve provinces.')
 
@@ -99,7 +100,10 @@ def main():
     scatterplot = ScatterPlotter("PCA with grey scaling based on deaths",
                                  pca.get_data_frame(), listofprovinces).get_plot()
     barplot = BarPlotter(pca.get_scores(), pca.get_features()).get_plot()
-    show(row(scatterplot, barplot))
+    text = TextPlotter(listofprovinces, pca.get_variance()).get_plot()
+    left = scatterplot
+    right = column(barplot, text)
+    show(row(left, right))
 
 
 if __name__ == "__main__":

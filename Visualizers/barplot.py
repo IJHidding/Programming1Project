@@ -6,7 +6,6 @@ the scores and the features from the PCA analysis and uses those as a basis for 
 """
 from Visualizers.abstract_plotter import AbstractPlotter
 from bokeh.plotting import figure
-import numpy as np
 
 
 class BarPlotter(AbstractPlotter):
@@ -26,14 +25,14 @@ class BarPlotter(AbstractPlotter):
         :param features: The features used in the regression
         :return: Returns the created bar plot
         """
-        p = figure(x_range=features, plot_height=500, title="Results of Regression Tests",
-                   toolbar_location=None, tools="")
-
-        p.vbar(x=features, top=scores, width=0.5)
+        features = [x for _, x in sorted(zip(scores, features))]
+        p = figure(y_range=features, x_range=(max(scores), 0), plot_height=300, plot_width=500,
+                   title="Results of Regression Tests", toolbar_location=None, tools="", y_axis_location="right")
+        scores.sort()
+        p.hbar(y=features, left=0, right=scores, height=0.4)
 
         p.xgrid.grid_line_color = None
-        p.y_range.start = 0
-        p.xaxis.major_label_orientation = np.pi / 2
+
 
         return p
 
