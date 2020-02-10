@@ -30,6 +30,11 @@ Default all provinces:
 Select province by adding the name of the province after -p:
 `python main.py -p Groningen Friesland`
 
+When running more than two provinces, the differences within provinces are very small compared the difference between 
+provinces. To see the spread within a province on the PCA plot either limit the run to only two provinces of interest or 
+use the scroll zoom functionality to zoom in on a single province point on the plot. This will reveal more points
+eventually. 
+
 
 ### Design choices
 For this analysis of the data it was chosen to try and combine all factors potentially influencing age death. Then a

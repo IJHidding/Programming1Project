@@ -4,18 +4,17 @@ Iwan Hidding, Data Science for the Life Sciences, Hanze Hogeschool
  9th Februari 2020
 
 ## Introduction
-When looking at the raw number of deaths per Dutch province, a large difference was noticed,
-that did not entirely disappear when correcting for the population number. An extensive analysis was performed by the 
+There are differences in number of deaths per Dutch province. An extensive analysis was performed by the 
 [CBS -article explaining the differences in deaths per region](https://www.cbs.nl/nl-nl/achtergrond/2013/07/regionale-verschillen-in-sterfte-verklaard) 2013. Where they
 found multiple background factors which were able explain up to 70% of the relative deaths. Primarily social-economical 
-variations, but cultural and lifestyle choices were also found to be relevant. They do warn for the ecological fallacy, 
+variations, but cultural and lifestyle choices were also found to be relevant. They warn of the ecological fallacy, 
 just because a province has an average lower life expectancy does not mean that living there will lead to a lower live 
 expectancy for the individual. 
 
 Their analysis focused on individuals 65 and older and looked at variables related to e.g. personal health and civil 
 status. This new analysis takes the age ranges lower than 65 into account as well and primarily focuses on factors 
 outside of personal control. For example the amount of nature and recreation space in each given province, as well as 
-air pollution.     
+air pollution. This research could lead to different live expectancy when moving to a different province.      
 
 
 ## Methods
@@ -54,4 +53,4 @@ like respiratory disease potentially caused by the PM10 would seem to have a sma
 
 Combining the results of a potentially improved dataset for this analysis with the analysis of the 2013
 [CBS article](https://www.cbs.nl/nl-nl/achtergrond/2013/07/regionale-verschillen-in-sterfte-verklaard) could add to the percentage 
-explained. 
+explained. Additionally while age is not a factor in this case 

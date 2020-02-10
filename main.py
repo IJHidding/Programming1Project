@@ -33,11 +33,11 @@ def ProvinceSelector(province):
     :return: A data frame containing all the data from that province from the raw data.
     """
     ## can be improved
-    Bevolking_leeftijd = CsvParser('Data/03759ned_UntypedDataSet_07022020_153926.csv',
-                                   province).get_data_frame().iloc[:, [2, 6]][1:]
+    Bevolking_leeftijd_reader = CsvParser('Data/03759ned_UntypedDataSet_07022020_153926.csv',
+                                   province).get_data_frame().iloc[:, [2, 6]]
+    Bevolking_leeftijd = Bevolking_leeftijd_reader[1:]
 
-    Bevolking_leeftijd_correction = CsvParser('Data/03759ned_UntypedDataSet_07022020_153926.csv',
-                                              province).get_data_frame().iloc[:, [2, 6]][:1]
+    Bevolking_leeftijd_correction = Bevolking_leeftijd_reader[:1]
 
     Bevolking_leeftijd_corrected = (Bevolking_leeftijd['BevolkingOp1Januari_1'].astype(int).div(
         int(Bevolking_leeftijd_correction['BevolkingOp1Januari_1'].iloc[0]))) * 100
